@@ -33,3 +33,9 @@ plink --bfile rs1800562 --recode --tab --out rs1800562
 
 # check homozygotes AA in 8648 individuals
 grep 'A A' rs1800562.ped | wc -l    # 24 patients were found with AA homozygotes
+
+# check other Hemochromatosis genes ( rs2280673 in RAB6B;  rs1800730 in HFE and rs235756 in the BMP2)
+# what a pity, rs235756 in the BMP2 is not included by current array
+plink --bfile S_Hebbring_Rel.Guo --make-bed --snps rs1800562,rs1799945,rs2280673,rs1800730 --out Hemochromatosis
+
+
