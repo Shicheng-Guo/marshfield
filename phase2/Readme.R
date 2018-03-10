@@ -36,6 +36,9 @@ grep 'A A' rs1800562.ped | wc -l    # 24 patients were found with AA homozygotes
 
 # check other Hemochromatosis genes ( rs2280673 in RAB6B;  rs1800730 in HFE and rs235756 in the BMP2)
 # what a pity, rs235756 in the BMP2 is not included by current array
+# rs1799945 in the HFE gene, also known as H63D (risk genotype GG)
 plink --bfile S_Hebbring_Rel.Guo --make-bed --snps rs1800562,rs1799945,rs2280673,rs1800730 --out Hemochromatosis
+plink --bfile Hemochromatosis --recode --tab --out Hemochromatosis
+
 
 
