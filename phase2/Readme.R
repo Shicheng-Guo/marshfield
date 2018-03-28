@@ -38,14 +38,14 @@ plink --bfile S_Hebbring_Rel.Guo --make-bed --snps rs1800562,rs1799945,rs2280673
 plink --bfile Hemochromatosis --recode --tab --out Hemochromatosis
 plink --bfile S_Hebbring_Unr.Guo --maf 0.05 --hardy
 
-plink --file S_Hebbring_Unr.Guo --test-mishap
-
+# gender discrepancy: only 1.07 have --check-sex (not 1.9 and 2.0)
+plink107 --bfile S_Hebbring_Unr.Guo --impute-sex --make-bed --out newfile
 
 # genotyping ratio <5% (--mind 0.05)
 plink --bfile S_Hebbring_Unr.Guo --missing
 plink107 --bfile S_Hebbring_Unr.Guo --check-sex 
 
-# gender discrepancy
+# binary to ped and map
 plink --bfile S_Hebbring_Unr.Guo --recode --tab --out S_Hebbring_Unr.Guo
 
 #population stratification-PCA analysis
