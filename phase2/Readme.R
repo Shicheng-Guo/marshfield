@@ -36,8 +36,25 @@ grep 'A A' rs1800562.ped | wc -l    # 24 patients were found with AA homozygotes
 # rs1799945 in the HFE gene, also known as H63D (risk genotype GG)
 plink --bfile S_Hebbring_Rel.Guo --make-bed --snps rs1800562,rs1799945,rs2280673,rs1800730 --out Hemochromatosis
 plink --bfile Hemochromatosis --recode --tab --out Hemochromatosis
+plink --bfile S_Hebbring_Unr.Guo --maf 0.05 --hardy
 
+# genotyping ratio <5% (--mind 0.05)
+plink --bfile S_Hebbring_Unr.Guo --missing
 
+# gender discrepancy
+plink --bfile S_Hebbring_Unr.Guo --recode --tab --out S_Hebbring_Unr.Guo
+
+#population stratification-PCA analysis
+plink --bfile rs1800562 --recode --tab --out rs1800562
+plink --file data --hardy
+
+#pairwise ibd estimate
+
+# confirmation of known family relationships
+
+# twins
+
+#
 
 # Rel data analysis. However, I found Unt data is better to use. 
 # fill up missing values for the probes without rs number in the column of RS_dbSNP137
