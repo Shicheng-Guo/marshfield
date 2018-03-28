@@ -38,6 +38,9 @@ plink --bfile S_Hebbring_Rel.Guo --make-bed --snps rs1800562,rs1799945,rs2280673
 plink --bfile Hemochromatosis --recode --tab --out Hemochromatosis
 plink --bfile S_Hebbring_Unr.Guo --maf 0.05 --hardy
 
+plink --file S_Hebbring_Unr.Guo --test-mishap
+
+
 # genotyping ratio <5% (--mind 0.05)
 plink --bfile S_Hebbring_Unr.Guo --missing
 
