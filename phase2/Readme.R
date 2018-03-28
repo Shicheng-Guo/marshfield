@@ -43,6 +43,7 @@ plink --file S_Hebbring_Unr.Guo --test-mishap
 
 # genotyping ratio <5% (--mind 0.05)
 plink --bfile S_Hebbring_Unr.Guo --missing
+plink107 --bfile S_Hebbring_Unr.Guo --check-sex 
 
 # gender discrepancy
 plink --bfile S_Hebbring_Unr.Guo --recode --tab --out S_Hebbring_Unr.Guo
