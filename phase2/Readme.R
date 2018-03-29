@@ -59,10 +59,14 @@ plink --bfile S_Hebbring_Unr.Guo --extract plink.prune.in --genome --min 0.185
 perl ./run-IBD-QC.pl plink
 
 # confirmation of known family relationships
+sort -k 9 plink.genome | awk '{print $1,$2,$3,$4,$7,$8,$9,$10,$11,$12,$13}' | awk '$8>0.985' | grep -v NA | awk -F'[- ]' '{print $1,$1,$7,$7}' | wc -l
+# remove 139 duplication samples (Hapmap and Marshfield)
+plink --bfile S_Hebbring_Unr.Guo --remove fail-IBD-QC.txt --make-bed --out S_Hebbring_Unr.Guo
+plink --bfile S_Hebbring_Unr.Guo --impute-sex --make-bed --out S_Hebbring_Unr.Guo
 
-# twins
+plink2 --bfile S_Hebbring_Unr.Guo --pca approx  --maf 0.05 --memory 30000 --out phase2.pca
 
-#
+
 
 # Rel data analysis. However, I found Unt data is better to use. 
 # fill up missing values for the probes without rs number in the column of RS_dbSNP137
