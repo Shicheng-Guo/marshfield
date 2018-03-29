@@ -1,3 +1,4 @@
+# Map file genomic version: hg19 (GRCh37) 
 # IDn plink 23: X, 24: Y, 25: X+Y, 26:M 
 # plink --bfile S_Hebbring_Unr.Guo --maf 0.02 --chr 23 --allow-no-sex --noweb --recode --tab --out chrX
 # plink --bfile S_Hebbring_Unr.Guo --maf 0.02 --chr 24 --allow-no-sex --noweb --recode --tab --out chrY
