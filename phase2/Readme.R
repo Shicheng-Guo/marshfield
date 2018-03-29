@@ -51,9 +51,12 @@ plink --bfile S_Hebbring_Unr.Guo --recode --tab --out S_Hebbring_Unr.Guo
 #population stratification-PCA analysis
 plink --bfile rs1800562 --recode --tab --out rs1800562
 plink --file data --hardy
-
 #pairwise ibd estimate
-plink --bfile S_Hebbring_Unr.Guo --remove fail-sexcheck-qc.txt 
+plink --bfile S_Hebbring_Unr.Guo --remove fail-sexcheck-qc.txt --out S_Hebbring_Unr.Guo
+plink --bfile S_Hebbring_Unr.Guo  --missing
+plink --bfile S_Hebbring_Unr.Guo --indep 50 5 2
+plink --bfile S_Hebbring_Unr.Guo --extract plink.prune.in --genome --min 0.185
+perl ./run-IBD-QC.pl plink
 
 # confirmation of known family relationships
 
