@@ -18,6 +18,7 @@ bzip2 -d hapmap3_r1_b36_fwd_consensus.qc.poly.recode.map.bz2
 wget https://www.broadinstitute.org/files/shared/mpg/hapmap3/relationships_w_pops_051208.txt
 
 # Plink
+plink --bfile hapmap3_r1_b36_fwd_consensus.qc.poly.recode  --missing
 plink --file hapmap3_r1_b36_fwd_consensus.qc.poly.recode --maf 0.01 --make-bed --indep 50 5 2 --out hapmap3_r1_b36_fwd_consensus.qc.poly.recode
-plink --bfile hapmap3_r1_b36_fwd_consensus.qc.poly.recode --extract hapmap3_r1_b36_fwd_consensus.qc.poly.recode.prune.in --genome
-
+plink --bfile hapmap3_r1_b36_fwd_consensus.qc.poly.recode --extract hapmap3_r1_b36_fwd_consensus.qc.poly.recode.prune.in --genome --min 0.185
+perl ./run-IBD-QC.pl plink
