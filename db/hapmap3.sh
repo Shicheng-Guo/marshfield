@@ -1,3 +1,4 @@
+#!/usr/bin/sh
 # https://www.broadinstitute.org/medical-and-population-genetics/hapmap-3
 # b36= GRCh36 =hg18. hg19 == GRCh37. 
 # each population
@@ -15,3 +16,9 @@ bzip2 -d hapmap3_r1_b36_fwd_consensus.qc.poly.recode.ped.bz2
 bzip2 -d hapmap3_r1_b36_fwd_consensus.qc.poly.recode.map.bz2
 
 wget https://www.broadinstitute.org/files/shared/mpg/hapmap3/relationships_w_pops_051208.txt
+
+# Plink
+plink --file hapmap3_r1_b36_fwd_consensus.qc.poly.recode --maf 0.01 --make-bed --indep 50 5 2 --out hapmap3_r1_b36_fwd_consensus.qc.poly.recode
+plink --bfile S_Hebbring_Unr.Guo --indep 50 5 2
+plink --bfile S_Hebbring_Unr.Guo --extract plink.prune.in --genome
+
