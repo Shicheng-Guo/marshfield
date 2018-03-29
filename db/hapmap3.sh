@@ -19,6 +19,5 @@ wget https://www.broadinstitute.org/files/shared/mpg/hapmap3/relationships_w_pop
 
 # Plink
 plink --file hapmap3_r1_b36_fwd_consensus.qc.poly.recode --maf 0.01 --make-bed --indep 50 5 2 --out hapmap3_r1_b36_fwd_consensus.qc.poly.recode
-plink --bfile S_Hebbring_Unr.Guo --indep 50 5 2
-plink --bfile S_Hebbring_Unr.Guo --extract plink.prune.in --genome
+plink --bfile hapmap3_r1_b36_fwd_consensus.qc.poly.recode --extract hapmap3_r1_b36_fwd_consensus.qc.poly.recode.prune.in --genome
 
