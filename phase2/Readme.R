@@ -1,6 +1,6 @@
 
-
 # copy data from the raw data source
+# Map file genomic version: hg19 (GRCh37) 
 cd ~/hpc/pmrp/phase2
 cp /mnt/bigdata/Genetic/Projects/S_Hebbring_2128_Released_Data/SNP_Information/SNP_Annotation/CoreExome_24v1p2_A1_Anno.csv  ./ 
 
