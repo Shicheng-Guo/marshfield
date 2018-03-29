@@ -53,6 +53,7 @@ plink --bfile rs1800562 --recode --tab --out rs1800562
 plink --file data --hardy
 
 #pairwise ibd estimate
+plink --bfile S_Hebbring_Unr.Guo --remove fail-sexcheck-qc.txt 
 
 # confirmation of known family relationships
 
@@ -79,6 +80,8 @@ write.table(map,file="../S_Hebbring_Unr.Guo.bim",sep="\t",quote=F,col.names=F,ro
 # cp S_Hebbring_Unr.fam ../S_Hebbring_Unr.Guo.fam
 # cp S_Hebbring_Unr.bed ../S_Hebbring_Unr.Guo.bed
 # pca analysis to phase 2 dataset
+# plink2 --bfile S_Hebbring_Unr.Guo --pca approx  --maf 0.05 --memory 30000 --out phase2.pca
+plink --bfile S_Hebbring_Unr.Guo --remove fail-sexcheck-qc.txt --impute-sex --make-bed --out S_Hebbring_Unr.Guo
 plink2 --bfile S_Hebbring_Unr.Guo --pca approx  --maf 0.05 --memory 30000 --out phase2.pca
 
 # R plot to show the PCA result
@@ -110,8 +113,4 @@ plink --bfile S_Hebbring_Unr.Guo --make-bed --snps rs1800562,rs1799945,rs2280673
 plink --bfile Hemochromatosis --recode --tab --out Hemochromatosis
 
 
-
-
-
-
-
+# We need combind 1000 Genome and Hapmap 3 dataset (not need)
