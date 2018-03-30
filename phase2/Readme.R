@@ -66,7 +66,7 @@ plink --bfile S_Hebbring_Unr.Guo --impute-sex --make-bed --out S_Hebbring_Unr.Gu
 
 plink2 --bfile S_Hebbring_Unr.Guo --pca approx  --maf 0.05 --memory 30000 --out phase2.pca
 
-
+plink2 --bfile merge --keep PCA.include.sample2.txt --pca approx  --maf 0.05 --memory 30000 --out phase3.pca
 
 # Rel data analysis. However, I found Unt data is better to use. 
 # fill up missing values for the probes without rs number in the column of RS_dbSNP137
