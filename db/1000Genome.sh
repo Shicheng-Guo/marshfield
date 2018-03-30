@@ -23,7 +23,6 @@ echo ulimit -n 3000 >> chr$i.pbs
 echo plink --vcf ALL.chr$i.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz --out chr$i >> chr$i.pbs
 qsub chr$i.pbs
 done 
-
 plink --vcf ALL.chrX.phase3_shapeit2_mvncall_integrated_v1b.20130502.genotypes.vcf.gz --make-bed --out chrX &
 plink --vcf ALL.chrY.phase3_integrated_v2a.20130502.genotypes.vcf.gz --make-bed --out chrY &
 plink --vcf ALL.chrMT.phase3_callmom-v0_4.20130502.genotypes.vcf.gz --make-bed --out chrMT &
