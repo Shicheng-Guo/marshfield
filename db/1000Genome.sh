@@ -50,7 +50,11 @@ done
 # now you can run merge command again. 
 plink --bfile chr1 --merge-list allfiles.txt --make-bed --out 1000Genome.phase3
 
-
+# Postive control test: rs1800562 (chr6): represents a SNP that accounts for ~85% of all cases of hemochromatosis
+# exm2253593 and exm596 are same to rs115741058
+plink --bfile chr6 --snps rs1800562 --recode --tab --hardy --out rs1800562 
+# check homozygotes AA in 8648 individuals
+grep 'A A' rs1800562.ped | wc -l    # 24 patients were found with AA homozygotes
 
 
 # Supplementary:
