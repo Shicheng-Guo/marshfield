@@ -25,7 +25,7 @@ map[,2]=newRS_dbSNP137
 write.table(map,file="../S_Hebbring_Rel.Guo.bim",sep="\t",quote=F,col.names=F,row.names=F)
 # pca analysis to phase 2 dataset
 plink2 --bfile S_Hebbring_Rel.Guo --pca approx  --maf 0.05 --memory 30000 --out phase2.pca
-# Postive control test: rs1800562: represents a SNP that accounts for ~85% of all cases of hemochromatosis
+# Postive control test: rs1800562 (chr6): represents a SNP that accounts for ~85% of all cases of hemochromatosis
 # exm2253593 and exm596 are same to rs115741058
 plink --bfile S_Hebbring_Rel.Guo --make-bed --snps rs1800562 --out rs1800562
 plink --bfile rs1800562 --recode --tab --out rs1800562
