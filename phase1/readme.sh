@@ -22,3 +22,5 @@ match(phen1[,2],phen2[,1])
 # I found the order is totally same, don't worry. 
 plink --bfile exomechip_SNV_PASS_BEAGLE_chr6_phased_sel --ci 0.95 --logistic --pheno two_alof_all_combed_v4.phen --pheno-name PheTyp7_Iron_C1  --allow-no-sex --out PheTyp7_Iron_C1
 plink --bfile exomechip_SNV_PASS_BEAGLE_chr6_phased_sel --ci 0.95 --logistic --pheno two_alof_all_combed_v4.phen --pheno-name PheTyp7_Iron_C2  --allow-no-sex --out PheTyp7_Iron_C2
+
+grep rs1800562 *logistic
