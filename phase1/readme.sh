@@ -1,8 +1,3 @@
-
-
-
-
-
 ## I check the phase I data systemically with rs1800562 as the examples.
 ## check permutaitontest and the qqplot for permutaiton with rs1800562 as the examples.
 cd /home/local/MFLDCLIN/guosa/hpc/hemochromatosis/haplotype
