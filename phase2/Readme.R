@@ -119,5 +119,17 @@ grep 'A A' rs1800562.ped | wc -l    # 24 patients were found with AA homozygotes
 plink --bfile S_Hebbring_Unr.Guo --make-bed --snps rs1800562,rs1799945,rs2280673,rs1800730 --out Hemochromatosis
 plink --bfile Hemochromatosis --recode --tab --out Hemochromatosis
 
-
 # We need combind 1000 Genome and Hapmap 3 dataset (not need)
+
+
+
+
+
+
+
+
+
+
+
+
+
