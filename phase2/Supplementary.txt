@@ -1,6 +1,8 @@
 
 1. These 16 SNPs have 3+ variants when combinding marshfield and hapmap 3 dataset. check the reseaon
 
+we have 48 duplicates
+
 rs10342
 rs10493784
 rs1065754
