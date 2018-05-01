@@ -1,14 +1,8 @@
 Here are the quantitative measures from diffusion tensor MRI data.  The autism group will be writing a paper on the genetics of the imaging data.  I’d like to get you on as an author.  They are interested in a linear regression analysis for the whole exome variants against the quantitative measures, adjusting for age.  I think we can probably ignore case/control status in the analysis at this point.  There are some methods that incorporate both quantitative measures and case/control status, but we’ll explore those at a later time.  We can filter out many of the variants if they’re only observed in one individual.  We can also ignore some of the phenotypes (those which have little correlation with the case/control status) if needed.  I’ve done that analysis and will send to you.
-
 1, check the normality
-
 normality is not good. 
-
 2, linear regression with/without age 
-
 3, permutation test with/without family-wise correction
-
-
 
 install.packages("openxlsx")
 
