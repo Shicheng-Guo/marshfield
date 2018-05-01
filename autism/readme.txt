@@ -48,6 +48,14 @@ mphen<-newphen[,c(1,2,13:ncol(newphen))]
 mphen[is.na(mphen)]<- -9
 write.table(mphen,file="All_samples_Exome_QC.phen",sep="\t",quote=F,col.names=F,row.names=T)
 
+# update, steve think we can do the analysis in case and control separately. 
+mphen<-newphen[,c(1,2,10,13:ncol(newphen))]
+mphen[is.na(mphen[,3]),3]<- -9
+mphen[mphen[,3]=="Case",3]=1
+mphen[mphen[,3]=="Control",3]=0
+mphen[is.na(mphen)]<- -9
+write.table(mphen,file="All_samples_Exome_QC.phen",sep="\t",quote=F,col.names=T,row.names=F)
+
 # use perl script to submit job and creat result file with corresponding phenotype names
 exc<-read.table("excludeSample.txt")
 match(exc[,1],newphen[,1])
