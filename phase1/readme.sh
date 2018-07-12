@@ -20,3 +20,8 @@ plink --bfile exomechip_SNV_PASS_BEAGLE_chr6_phased_sel --ci 0.95 --logistic --p
 plink --bfile exomechip_SNV_PASS_BEAGLE_chr6_phased_sel --ci 0.95 --logistic --pheno two_alof_all_combed_v4.phen --pheno-name PheTyp7_Iron_C2  --allow-no-sex --out PheTyp7_Iron_C2
 
 grep rs1800562 *logistic
+
+# replace exm id to rs id
+# rebuild plink files and save as bak file
+#
+
