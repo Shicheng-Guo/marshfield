@@ -23,5 +23,12 @@ grep rs1800562 *logistic
 
 # replace exm id to rs id
 # rebuild plink files and save as bak file
-#
+# add sex information to fam
+fam<-read.table("FinalRelease_QC_20140311_Team1_Marshfield_Clean.fam",sep="")
+saminfo<-read.table("FinalRelease_QC_Phenotypes_Marshfield_20140224_Team1.txt",head=T,sep="\t")
+head(fam)
+head(saminfo)
+fam[,5]=saminfo[match(fam[,1],saminfo[,1]),9]
+write.table(fam,file="FinalRelease_QC_20140311_Team1_Marshfield_Clean.fam2",sep=" ",row.names=F,col.names=F,quote=F)
+
 
