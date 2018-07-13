@@ -19,4 +19,6 @@ Strand: +
 Observed: -/T
 Reference allele: 	-				
 
+This one will be terrible, since genotyping '0' used be taken as missing genotyping which will give trouble to further analysis. 
+
 
