@@ -1,0 +1,7 @@
+1. INDEL record way difference between phase I and phase 2 dataset
+
+grep 1KG_X_129270131 *bim
+FinalRelease_QC_20140311_Team1_Marshfield.bim:23        1KG_X_129270131 0       129270132       <DEL>   ACAG
+FinalRelease_QC_20140311_Team1_Marshfield.bim.bim:23    1KG_X_129270131 0       129270132       <DEL>   ACAG
+S_Hebbring_Unr.Guo.Forward.bim:23       X1KG_X_129270131        0       129270132       0       I
+
