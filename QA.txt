@@ -22,3 +22,11 @@ Reference allele: 	-
 This one will be terrible, since genotyping '0' used be taken as missing genotyping which will give trouble to further analysis. 
 
 
+2. UFO probe which don't have enough support (no dbgap no. no rs number, ucsd cannot find)
+
+SeattleSeqAnnotation138.FinalRelease_QC_20140311_Team1_Marshfield.vcf.variant.info.312788349608.txt:none        2       171264271       T       T/TCC   TCC     NA      NM_001083615.3  frameshift      unknown 0       none    NA      NA
+SeattleSeqAnnotation138.FinalRelease_QC_20140311_Team1_Marshfield.vcf.variant.info.312788349608.txt:none        2       171264271       T       T/TCC   TCC     NA      NM_138995.4     frameshift      unknown 0       none    NA      NA
+SeattleSeqAnnotation138.FinalRelease_QC_20140311_Team1_Marshfield.vcf.variant.info.312788349608.txt:none        2       171264271       T       T/TCC   TCC     NA      NR_045682.1     non-coding-exon unknown 0       none    NA      NA
+SeattleSeqAnnotation138.FinalRelease_QC_20140311_Team1_Marshfield.vcf.variant.info.312788349608.txt:none        2       171264271       T       T/TCC   TCC     NA      NR_045683.1     non-coding-exon unknown 0       none    NA      NA
+SeattleSeqAnnotation138.FinalRelease_QC_20140311_Team1_Marshfield.vcf.variant.info.312788349608.txt:none        2       171264271       T       T/TCC   TCC     NA      NR_045684.1     non-coding-exon unknown 0       none    NA      NA
+
