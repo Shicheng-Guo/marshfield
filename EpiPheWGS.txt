@@ -1,0 +1,722 @@
+UniProt_ID	Modification
+HDGR2	#
+A1CF	RNA deamination
+ACTB	#
+ACL6A	#
+ACL6B	#
+ARP3B	#
+ARP5	#
+ARP6	#
+ARP8	#
+ADNP	#
+AEBP2	Histone methylation
+AICDA	DNA demethylation
+AIRE	#, #
+ALKB1	#
+ANR32	#
+AN32A	#
+AN32B	#
+AN32E	#, #
+APBB1	#
+APEX1	DNA demethylation
+ABEC1	DNA demethylation, mRNA editing
+ABEC2	DNA demethylation, mRNA editing
+ABC3A	DNA demethylation, mRNA editing
+ABC3B	DNA demethylation, mRNA editing
+ABC3C	DNA demethylation, mRNA editing
+ABC3D	DNA demethylation, mRNA editing
+ABC3F	DNA demethylation, mRNA editing
+ABC3G	DNA demethylation, mRNA editing
+ABC3H	DNA demethylation, mRNA editing
+ARI1A	#
+ARI1B	Histone ubiquitination
+ARID2	#
+ARI4A	Histone acetylation
+ARI4B	Histone acetylation
+BMAL1	#, TF activator
+ARRB1	#
+ASF1A	#
+ASF1B	#
+ASH1L	Histone methylation
+ASH2L	Histone methylation
+ASXL1	Histone deubiquitination, #
+ASXL2	#
+ASXL3	#, #
+ATAD2	#
+ATD2B	#
+ATF2	Histone acetylation, TF activator
+MCAF1	Histone methylation
+ATM	Histone phosphorylation
+ATN1	#
+ATR	Histone phosphorylation
+ATRX	#
+ATX7	Histone acetylation
+AT7L3	Histone deubiquitination
+AURKA	Histone phosphorylation
+AURKB	Histone phosphorylation
+AURKC	Histone phosphorylation
+BABA1	Histone deubiquitination
+BAHD1	#
+BANP	Histone acetylation
+BAP1	Histone deubiquitination, #
+BARD1	Histone ubiquitination
+BAZ1A	#
+BAZ1B	Histone phosphorylation
+BAZ2A	#, Histone deacetylation
+BAZ2B	#
+BCOR	#
+BCORL	Histone deacetylation
+BMI1	#
+BPTF	#
+BRCA1	Histone acetylation, Histone methylation, Histone ubiquitination, TF activator, TF repressor
+BRCA2	Histone acetylation
+BRCC3	Histone deubiquitination
+BRD1	#
+BRD2	#
+BRD3	#
+BRD4	#
+BRD7	#
+BRD8	#
+BRD9	#
+BRDT	#
+BRE	Histone ubiquitination
+BRMS1	#
+BRM1L	Histone deacetylation
+BRPF1	#
+BRPF3	Histone acetylation
+BRWD1	#
+BRWD3	#
+BUB1	Histone phosphorylation
+EMSY	Histone methylation
+NO66	Histone methylation
+BAP18	#
+CARM1	Histone methylation
+CBX1	#
+CBX2	#
+CBX3	#
+CBX4	#
+CBX5	#
+CBX6	#
+CBX7	#
+CBX8	#
+SGF29	#
+CDC6	#
+CDC73	Histone methylation
+CDK1	Histone phosphorylation
+CDK17	Histone phosphorylation
+CDK2	Histone phosphorylation
+CDK3	Histone phosphorylation
+CDK5	Histone phosphorylation
+CDK7	Histone phosphorylation
+CDK9	#
+CDY1	Histone acetylation
+CDY1	Histone acetylation
+CDY2	Histone acetylation
+CDY2	Histone acetylation
+CDYL1	Histone acetylation
+CDYL2	#
+CECR2	#
+CENPC	DNA methylation
+CAF1A	#
+CAF1B	#
+CHD1	#
+CHD1L	#
+CHD2	#
+CHD3	#
+CHD4	#
+CHD5	#
+CHD6	#
+CHD7	#
+CHD8	#
+CHD9	#
+CHK1	Histone phosphorylation
+CHRC1	#
+CHTOP	#
+IKKA	Histone phosphorylation
+CIR1	#
+CTRO	Histone methylation, Histone phosphorylation
+ICLN	Histone methylation
+CLOCK	Histone acetylation
+CRUM2	#
+CBP	Histone acetylation
+CSK21	#
+CSR2B	Histone acetylation
+CTBP1	#
+CTBP2	Histone methylation
+CTCF	#, TF activator
+CTCFL	#
+CTR9	#
+CUL1	#
+CUL2	#
+CUL3	Histone ubiquitination
+CUL4A	Histone ubiquitination
+CUL4B	Histone ubiquitination
+CUL5	DNA methylation
+CXXC1	#, #
+DAPK3	Histone phosphorylation
+DAXX	#
+DDB1	Histone ubiquitination
+DDB2	Histone ubiquitination
+DDX21	#
+DDX50	#
+DEK	#
+DMAP1	#
+DNJC1	Histone acetylation, Histone deacetylation
+DNJC2	#
+DND1	#
+DNMT1	DNA methylation
+DNM3A	DNA methylation
+DNM3B	DNA methylation
+DNM3L	#
+TDIF2	#
+DOT1L	Histone methylation
+DPF1	#
+REQU	#
+DPF3	#
+DPPA3	#
+DPY30	Histone methylation
+NC2B	#
+DTX3L	Histone ubiquitination
+DZIP3	Histone ubiquitination
+E2F6	TF repressor
+EED	#
+EHMT1	Histone methylation
+EHMT2	Histone methylation
+EID1	Histone acetylation
+EID2	Histone acetylation
+EID2B	Histone acetylation
+ELP2	Histone acetylation
+ELP3	Histone acetylation
+ELP4	Histone acetylation
+ELP5	Histone acetylation
+ELP6	Histone acetylation
+ENY2	Histone ubiquitination
+EP300	Histone acetylation
+EP400	#, Histone acetylation
+EPC1	#
+EPC2	#
+ERBB4	#
+ERCC6	#
+EXOS1	#, RNA degradation
+EXOS2	#, RNA degradation
+EXOS3	#, RNA degradation
+EXOS4	#, RNA degradation
+EXOS5	#, RNA degradation
+EXOS6	#, RNA degradation
+EXOS7	#, RNA degradation
+EXOS8	#, RNA degradation
+EXOS9	#, RNA degradation
+EYA1	Histone phosphorylation
+EYA2	Histone phosphorylation
+EYA3	Histone phosphorylation
+EYA4	Histone phosphorylation
+EZH1	Histone methylation, #
+EZH2	Histone methylation, #
+F175A	#
+F175B	Histone ubiquitination
+FBRL	Histone methylation
+FBRS	#
+FBSL	#
+FOXA1	#, #
+FOXO1	#
+FOXP1	#
+FOXP2	#
+FOXP3	#
+FOXP4	#
+GA45A	#
+GA45B	#
+GA45G	#
+GATD1	#
+P66A	#
+P66B	#
+GFI1	#
+GFI1B	#
+GLYR1	#
+GSE1	Histone acetylation
+HASP	Histone phosphorylation
+GTF2I	#
+TF3C4	Histone acetylation
+HAT1	Histone acetylation
+HCFC1	#
+HCFC2	Histone methylation, Histone acetylation
+HDAC1	Histone acetylation
+HDA10	Histone acetylation
+HDA11	Histone acetylation
+HDAC2	Histone acetylation
+HDAC3	Histone acetylation
+HDAC4	Histone acetylation
+HDAC5	Histone acetylation
+HDAC6	Histone acetylation
+HDAC7	Histone acetylation
+HDAC8	Histone acetylation
+HDAC9	Histone acetylation
+HDGF	#, TF repressor
+HELLS	#
+HIF1N	Histone acetylation
+HINFP	#, TF activator, TF repressor
+HIRA	#
+HIRP3	#
+HJURP	#
+BPL1	#
+HLTF	#
+HM20A	#
+HM20B	#
+HMGB1	#
+HMGN1	#
+HMGN2	#
+HMGN3	#
+HMGN4	#
+HMGN5	#
+HP1B3	#
+HAIR	Histone methylation
+HSP71	Histone methylation, Histone acetylation
+HSP71	Histone methylation, Histone acetylation
+HUWE1	Histone ubiquitination
+ELP1	#
+IKZF1	#, #
+IKZF3	#
+ING1	#
+ING2	#
+ING3	#, Histone acetylation
+ING4	#
+ING5	#
+INO80	#
+IN80B	#
+IN80C	#
+IN80D	#
+IN80E	#
+JADE1	Histone acetylation
+JADE2	Histone acetylation
+JADE3	Histone acetylation
+JAK2	Histone phosphorylation
+JARD2	Histone methylation
+JDP2	#, Histone acetylation
+JHD2C	Histone methylation
+JMJD6	Histone methylation
+KANL1	Histone methylation, Histone acetylation
+KANL2	Histone acetylation
+KANL3	Histone acetylation
+KAT2A	Histone acetylation
+KAT2B	Histone acetylation
+KAT5	Histone acetylation
+KAT6A	Histone acetylation
+KAT6B	Histone acetylation
+KAT7	Histone acetylation
+KAT8	Histone acetylation
+KDM1A	Histone methylation
+KDM1B	Histone methylation
+KDM2A	Histone methylation
+KDM2B	Histone methylation
+KDM3A	Histone methylation
+KDM3B	Histone methylation
+KDM4A	Histone methylation
+KDM4B	Histone methylation
+KDM4C	Histone methylation
+KDM4D	Histone methylation
+KDM4E	Histone methylation
+KDM5A	Histone methylation
+KDM5B	Histone methylation
+KDM5C	Histone methylation
+KDM5D	Histone methylation
+KDM6A	Histone methylation
+KDM6B	Histone methylation
+KDM7A	Histone methylation
+KDM8	Histone methylation
+KEAP1	#
+KMT2A	Histone methylation
+KMT2B	Histone methylation
+KMT2C	Histone methylation
+KMT2D	Histone methylation
+KMT2E	Histone methylation
+LMBL1	#
+LMBL2	#
+LMBL3	#
+LMBL4	#
+LAS1L	Histone methylation, Histone acetylation
+LBR	#
+LEO1	Histone ubiquitination
+LRWD1	#
+M3K7	#
+MAPK3	#
+GWL	Histone phosphorylation
+MAX	Histone methylation, Histone acetylation, TF activator, TF repressor
+MAZ	#
+MBD1	Histone methylation, TF repressor
+MBD2	Histone methylation, Histone acetylation, TF repressor
+MBD3	Histone acetylation
+MBD4	#
+MBD5	#
+MBD6	#
+MBIP1	Histone acetylation
+MBTD1	#
+MCRS1	Histone acetylation
+MDC1	#
+EAF6	Histone acetylation
+MECP2	Histone methylation, Histone acetylation, TF repressor
+MEN1	Histone methylation
+MGAP	Histone methylation, Histone acetylation, TF activator, TF repressor
+NCOAT	Histone acetylation
+MINA	Histone methylation
+ENL	#
+AF10	Histone methylation
+AF17	Histone methylation
+MO4L1	#
+MO4L2	Histone acetylation
+MOV10	#
+MPP8	#
+MRGBP	Histone acetylation
+MSH6	#
+MSL1	Histone ubiquitination
+MSL2	Histone ubiquitination
+MS3L1	#
+HGFL	#
+MTA1	#
+MTA2	Histone acetylation
+MTA3	#
+MTF2	#
+MUM1	#
+MBB1A	#
+MYO1C	#
+MYSM1	Histone ubiquitination
+NAA60	Histone acetylation
+NP1L1	#
+NP1L2	#
+NP1L4	#
+NASP	#
+NAT10	Histone acetylation
+NBN	#
+NUCL	#
+NCOA1	Histone acetylation
+NCOA2	#
+NCOA3	Histone acetylation
+NCOA6	Histone methylation
+NCOR1	Histone acetylation
+NCOR2	Histone acetylation
+NEK6	Histone phosphorylation
+NEK9	Histone phosphorylation
+NFRKB	#, #
+NFYB	#, TF activator
+NFYC	#
+NIPBL	Histone acetylation
+NOC2L	#, TF repressor
+NPAS2	#, TF activator
+NPM	#
+NPM2	#
+NSD1	Histone methylation
+NSL1	Histone acetylation
+OGT1	Histone GlcNAcylation
+PADI1	Histone citrullination
+PADI2	Histone citrullination
+PADI3	Histone citrullination
+PADI4	Histone citrullination
+PAF1	Histone ubiquitination
+PAGR1	Histone methylation, Histone acetylation
+PAK2	Histone phosphorylation
+PARG	#
+PARP1	#
+PARP2	#
+PARP3	#
+PAXI1	Histone methylation
+TOPK	Histone phosphorylation
+PB1	#
+PCGF1	#
+PCGF2	#
+PCGF3	#
+PCGF5	#
+PCGF6	#
+PCNA	#
+PDP1	#
+PELP1	Histone methylation, Histone acetylation
+PHC1	#
+PHC2	#
+PHC3	#
+PHF1	#
+PHF10	#
+PHF12	Histone acetylation
+PHF13	#
+PHF14	#
+PHF19	#, Histone acetylation
+PHF2	Histone methylation
+PHF20	Histone acetylation
+P20L1	#
+PF21A	Histone methylation
+PHF8	Histone methylation
+PHIP	#
+PIWL4	#, Histone methylation
+KPYM	Histone phosphorylation
+PKN1	Histone phosphorylation
+POGZ	Histone methylation
+DPOE3	#
+PRGC1	#
+PPM1G	#
+PP2AA	Histone phosphorylation
+PP4C	Histone phosphorylation
+PP4R2	#
+PRDM1	Histone methylation
+PRD11	Histone methylation
+PRD12	Histone methylation
+PRD13	Histone methylation
+PRD14	DNA demethylation
+PRD16	Histone methylation, TF repressor
+PRDM2	Histone methylation
+PRDM4	Histone methylation
+PRDM5	Histone methylation
+PRDM6	Histone methylation
+PRDM7	Histone methylation
+PRDM8	Histone methylation
+PRDM9	Histone methylation
+AAPK1	Histone phosphorylation
+AAPK2	Histone phosphorylation
+AAKB1	Histone phosphorylation
+AAKB2	Histone phosphorylation
+AAKG1	Histone phosphorylation
+AAKG2	Histone phosphorylation
+AAKG3	Histone phosphorylation
+KPCA	Histone phosphorylation
+KPCB	Histone methylation
+KPCD	#
+PRKDC	Histone phosphorylation
+ANM1	Histone methylation
+ANM2	Histone methylation
+ANM5	Histone methylation
+ANM6	Histone methylation
+ANM7	Histone methylation
+ANM8	Histone methylation
+ANM9	Histone methylation
+PRP31	Histone methylation, Histone acetylation
+PRR14	Histone phosphorylation
+PSIP1	#
+RAD51	Histone ubiquitination
+RA54B	#
+RAD54	#
+ARIP4	#
+RAG1	Histone ubiquitination
+RAG2	#
+RAI1	#
+RARA	Histone methylation, TF activator, TF repressor
+RB	#, Histone ubiquitination
+RBBP4	#
+RBBP5	Histone methylation
+RBBP7	#
+RBX1	Histone ubiquitination
+RCC1	#
+RCOR1	Histone acetylation, Histone methylation
+RCOR3	Histone acetylation
+REST	Histone acetylation, TF activator, TF repressor
+RING1	Histone ubiquitination, #
+RNF12	Histone acetylation
+RMI1	#
+RN168	Histone ubiquitination
+RING2	Histone ubiquitination
+BRE1A	Histone ubiquitination
+BRE1B	Histone ubiquitination
+RNF8	Histone ubiquitination
+KS6A3	Histone phosphorylation
+KS6A4	Histone phosphorylation
+KS6A5	Histone phosphorylation
+RRP8	#
+RSF1	#
+RUVB1	#, Histone phosphorylation
+RUVB2	#
+RYBP	#
+SAFB1	#
+SP130	Histone acetylation
+SAP18	Histone acetylation
+SAP25	Histone acetylation
+SAP30	Histone acetylation
+SP30L	Histone acetylation
+SATB1	#
+SATB2	#
+SCMH1	#
+SCML2	#
+SCML4	#
+SENP1	Histone sumoylation
+SENP3	Histone sumoylation, Histone acetylation
+SET	#
+SET1A	Histone methylation
+SET1B	Histone methylation
+SETD2	Histone methylation
+SETD3	Histone methylation
+SETD5	Histone methylation
+SETD6	#, Histone methylation
+SETD7	Histone methylation
+SETD8	Histone methylation
+SETB1	Histone methylation
+SETB2	Histone methylation
+SETMR	Histone methylation
+SF3B1	#
+SF3B3	#
+SMBT1	#
+SMBT2	#, #, TF repressor
+SFPQ	#, #, TF repressor
+SHPRH	Histone ubiquitination
+SIN3A	Histone acetylation, TF activator, TF repressor
+SIN3B	Histone acetylation, TF repressor
+SIR1	Histone acetylation, Histone methylation
+SIR2	Histone acetylation, Histone methylation
+SIR6	Histone acetylation
+SIR7	Histone acetylation
+SKP1	Histone ubiquitination
+SMCA1	#, Histone acetylation
+SMCA2	#, TF activator
+SMCA4	#, TF activator
+SMCA5	#
+SMRCD	#
+SMAL1	#
+SNF5	#
+SMRC1	#
+SMRC2	#
+SMRD1	#
+SMRD2	#
+SMRD3	#
+SMCE1	#
+P4R3A	Histone phosphorylation
+P4R3B	Histone phosphorylation
+SMYD1	Histone methylation
+SMYD2	Histone methylation
+SMYD3	Histone methylation
+SMYD4	Histone acetylation
+SNAI2	#
+SP1	#, TF activator, TF repressor
+SP100	#
+SP140	#, #
+MINT	Histone acetylation, TF activator, TF repressor
+SPOP	Histone ubiquitination
+SRCAP	#, Histone acetylation
+SRSF1	#
+SRSF3	#
+CREST	#
+S18L2	#
+SSRP1	#
+STK4	Histone phosphorylation
+SDS3	Histone acetylation
+SP16H	#
+SUPT3	Histone acetylation
+SPT6H	Histone methylation
+ST65G	#
+SUV91	Histone methylation, Histone phosphorylation
+SUV92	Histone methylation
+SV421	Histone methylation
+SV422	Histone methylation
+SUZ12	Histone methylation, Histone ubiquitination, #, TF repressor
+HNRPQ	mRNA editing
+TADA1	#
+TAD2A	#, TF activator
+TAD2B	Histone acetylation
+TADA3	Histone acetylation
+TAF1	Histone acetylation
+TAF10	#, Histone acetylation
+TAF12	#, Histone acetylation
+TAF1L	#
+TAF2	#
+TAF3	#
+TAF4	#
+TAF5	Histone acetylation
+TAF5L	Histone acetylation
+TAF6	#
+TAF6L	#
+TAF7	Histone methylation, Histone acetylation
+TAF8	#
+TAF9	#
+TAF9B	#
+TBL1R	#
+TDG	DNA hydroxymethylation
+TDRD3	#
+TDRD7	#
+TDRKH	#
+TET1	DNA hydroxymethylation
+TET2	DNA hydroxymethylation
+TET3	DNA hydroxymethylation
+TEX10	Histone methylation, Histone acetylation
+TFDP1	#
+TFPT	#, DNA hydroxymethylation
+TLE1	#, #
+TLE2	#
+TLE4	#, #
+TLK1	Histone phosphorylation
+TLK2	Histone phosphorylation
+STP1	#
+STP2	#
+TONSL	#
+TOP2A	#
+TOP2B	#
+P53	Histone acetylation, TF activator, TF repressor
+TP53B	#
+TRI16	Histone acetylation
+TIF1A	#
+TRI27	Histone acetylation
+TIF1B	#
+TRI33	#
+TRRAP	Histone acetylation
+TSSK6	Histone phosphorylation
+TTK	Histone phosphorylation
+TYW5	#
+UBE2A	Histone ubiquitination
+UBE2B	Histone ubiquitination
+UB2D1	Histone ubiquitination
+UB2D3	Histone ubiquitination
+UB2E1	Histone ubiquitination
+UBE2H	Histone ubiquitination
+UBE2N	Histone ubiquitination
+UBE2T	Histone ubiquitination
+UBN1	Histone methylation
+UBR2	Histone ubiquitination
+UBR5	#, Histone ubiquitination
+UBR7	DNA methylation
+UCHL5	Histone ubiquitination
+UHRF1	Histone ubiquitination, #
+UHRF2	#
+UIMC1	#
+UBP11	Histone ubiquitination
+UBP12	Histone ubiquitination
+UBP15	Histone ubiquitination
+UBP16	Histone ubiquitination
+U17L2	Histone ubiquitination
+UBP21	Histone ubiquitination
+UBP22	Histone ubiquitination
+UBP3	Histone ubiquitination
+UBP36	Histone ubiquitination
+UBP44	Histone ubiquitination
+UBP46	Histone ubiquitination
+UBP49	Histone ubiquitination
+UBP7	Histone ubiquitination, DNA methylation
+UTY	Histone ubiquitination
+VDR	#, #
+VPS72	Histone acetylation
+VRK1	Histone phosphorylation
+WAC	Histone ubiquitination
+WDR5	#
+MEP50	Histone methylation
+WDR82	Histone methylation
+NSD2	Histone methylation
+NSD3	#, #
+WSB2	Histone ubiquitination
+YAF2	#
+YETS2	#
+YETS4	Histone acetylation
+1433B	Histone acetylation
+1433E	Histone acetylation
+1433Z	#
+TYY1	#, TF repressor
+ZBT16	Histone acetylation
+KAISO	Histone acetylation, Histone methylation, TF repressor
+ZBT7C	#
+ZCPW1	#
+ZFP57	TF repressor
+ZGPAT	TF repressor
+ZHX1	#, Histone acetylation, Histone methylation
+ZMYM2	Histone acetylation, #
+ZMYM3	Histone acetylation
+ZMY11	Histone methylation
+PKCB1	Histone acetylation
+ZN217	Histone acetylation, TF repressor
+ZN516	Histone acetylation, TF repressor
+ZN532	Histone acetylation
+ZN541	#
+ZN592	Histone acetylation
+ZN687	Histone acetylation
+ZN711	Histone acetylation
+ZNHI1	#, Histone acetylation
+ZRAB3	#, Histone methylation
+ZZZ3	#
+
