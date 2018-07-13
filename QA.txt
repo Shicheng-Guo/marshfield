@@ -1,7 +1,22 @@
 1. INDEL record way difference between phase I and phase 2 dataset
 
-grep 1KG_X_129270131 *bim
-FinalRelease_QC_20140311_Team1_Marshfield.bim:23        1KG_X_129270131 0       129270132       <DEL>   ACAG
-FinalRelease_QC_20140311_Team1_Marshfield.bim.bim:23    1KG_X_129270131 0       129270132       <DEL>   ACAG
-S_Hebbring_Unr.Guo.Forward.bim:23       X1KG_X_129270131        0       129270132       0       I
+awk 'NR==FNR{a[$1];next;}$1 in a' FinalRelease_QC_20140311_Team1_Marshfield.bim S_Hebbring_Unr.Guo.Forward.bim | grep 1KG | wc -l
+
+grep 1KG_X_21450738 *bim
+FinalRelease_QC_20140311_Team1_Marshfield.bim:23        1KG_X_21450738  0       21450738        CT      C
+FinalRelease_QC_20140311_Team1_Marshfield.bim.bim:23    1KG_X_21450738  0       21450738        CT      C
+S_Hebbring_Unr.Guo.Forward.bim:23       X1KG_X_21450738 0       21450738        0       D
+
+the actual genomic:
+
+dbSNP build 150 rs1043341896
+dbSNP: rs1043341896
+Position: chrX:21450739-21450738
+Band: Xp22.12
+Genomic Size: 0
+
+Strand: +
+Observed: -/T
+Reference allele: 	-				
+
 
