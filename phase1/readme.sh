@@ -1,6 +1,6 @@
 ## I check the phase I data systemically with rs1800562 as the examples.
 ## check permutaitontest and the qqplot for permutaiton with rs1800562 as the examples.
-
+# raw vcf data: /mnt/bigdata/Genetic/Projects/EXOMECHIP_MARSHFIELD/FinalRelease_QC_20140311_Team1_Marshfield.vcf.gz
 cd /home/local/MFLDCLIN/guosa/hpc/hemochromatosis/haplotype
 # now we know we need select sel not sel2 since rs1800562 is not in sel2
 wc -l exomechip_SNV_PASS_BEAGLE_chr8_phased_sel2.map  # rs1800562 was not listed in sel2
