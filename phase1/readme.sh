@@ -3,8 +3,13 @@
 
 # raw vcf data: /mnt/bigdata/Genetic/Projects/EXOMECHIP_MARSHFIELD/FinalRelease_QC_20140311_Team1_Marshfield.vcf.gz
 # transfer vcf to plink format with plink 1.9
+# remove excluded samples(sex error, kinship error)
 cd /mnt/bigdata/Genetic/Projects/EXOMECHIP_MARSHFIELD/
 plink --make-bed --vcf FinalRelease_QC_20140311_Team1_Marshfield.vcf.gz --out FinalRelease_QC_20140311_Team1_Marshfield
+# copy to phaseI fold
+cd /home/guosa/hpc/pmrp/phase1
+plink --bfile FinalRelease_QC_20140311_Team1_Marshfield --make-bed --remove exclude.txt --out FinalRelease_QC_20140311_Team1_Marshfield_Clean
+plink --bfile FinalRelease_QC_20140311_Team1_Marshfield_Clean --list-duplicate-vars
 
 cd /home/local/MFLDCLIN/guosa/hpc/hemochromatosis/haplotype
 # now we know we need select sel not sel2 since rs1800562 is not in sel2
