@@ -110,6 +110,65 @@ Warning: Multiple chromosomes seen for variant 'indel.109162'.
 Warning: Multiple chromosomes seen for variant 'variant.109262'.
 
 
+5. Same SNP/INDEL use different names, such as RS number or EXM number
 
+Warning: Variants 'rs187039783' and 'exm3908' have the same position.
+Warning: Variants 'rs142001836' and 'exm3923' have the same position.
+Warning: Variants 'rs199741261' and 'exm3957' have the same position.
+Warning: Variants 'rs7418389' and 'exm3962_ver2' have the same position.
+Warning: Variants 'rs199576573' and 'exm3966' have the same position.
+Warning: Variants 'rs201820622' and 'exm3970' have the same position.
+Warning: Variants 'rs12755088' and 'exm3973' have the same position.
+Warning: Variants 'rs200885260' and 'exm4002' have the same position.
+Warning: Variants 'rs114944847' and 'exm4035' have the same position.
+Warning: Variants 'rs74047808' and 'exm4046' have the same position.
+Warning: Variants 'rs201142750' and 'exm4067' have the same position.
+Warning: Variants 'rs75855249' and 'exm2250001' have the same position.
+Warning: Variants 'rs76957527' and 'exm4087' have the same position.
+Warning: Variants 'rs74808013' and 'exm4089' have the same position.
+Warning: Variants 'rs200373195' and 'exm4090' have the same position.
+Warning: Variants 'rs201037166' and 'exm4091' have the same position.
+Warning: Variants 'rs199626113' and 'exm4093_ver5' have the same position.
+Warning: Variants 'rs200283011' and 'exm4107' have the same position.
+Warning: Variants 'rs193243389' and 'exm4117' have the same position.
+Warning: Variants 'rs200650601' and 'exm4119' have the same position.
+Warning: Variants 'rs201947158' and 'exm4134' have the same position.
+Warning: Variants 'rs200777664' and 'exm4160' have the same position.
+Warning: Variants 'rs199909991' and 'exm4171' have the same position.
+Warning: Variants 'rs200964630' and 'exm2250017' have the same position.
+Warning: Variants 'exm4276_ver3' and 'exm4276' have the same position.
+Warning: Variants 'rs114859950' and 'exm4281' have the same position.
+Warning: Variants 'rs117820608' and 'exm4292' have the same position.
+Warning: Variants 'rs199596545' and 'exm4294' have the same position.
+Warning: Variants 'rs200687631' and 'exm4297' have the same position.
+Warning: Variants 'rs4074196' and 'exm2264793' have the same position.
+Warning: Variants 'var_1_1635271' and 'rs1136982' have the same position.
+Warning: Variants 'rs909823' and 'rs56081394' have the same position.
+Warning: Variants 'var_1_1647858' and 'rs201054761' have the same position.
+Warning: Variants 'rs146969326' and 'exm4428' have the same position.
+Warning: Variants 'rs2294489' and 'exm2268858' have the same position.
+Warning: Variants 'rs141009211' and 'exm4494' have the same position.
+Warning: Variants 'rs147116706' and 'exm4499' have the same position.
+Warning: Variants 'rs75816936' and 'exm4503' have the same position.
+Warning: Variants 'rs142307360' and 'exm4504' have the same position.
+Warning: Variants 'rs139648414' and 'exm4505' have the same position.
+Warning: Variants 'rs147892956' and 'exm4520' have the same position.
+Warning: Variants 'rs72634841' and 'exm4521' have the same position.
+Warning: Variants 'rs199931813' and 'exm4526' have the same position.
+Warning: Variants 'rs116006782' and 'exm1733478' have the same position.
+Warning: Variants 'rs145393948' and 'exm4527' have the same position.
+Warning: Variants 'rs116344604' and 'exm4538' have the same position.
+Warning: Variants 'rs186603783' and 'exm4543' have the same position.
+Warning: Variants 'rs143521678' and 'exm4548' have the same position.
+Warning: Variants 'rs183152010' and 'exm4550' have the same position.
+Warning: Variants 'rs201229178' and 'exm4570' have the same position.
+Warning: Variants 'rs79516120' and 'exm2250243' have the same position.
+Warning: Variants 'exm4614' and '1KG_1_1756864' have the same position.
+Warning: Variants 'rs76273614' and 'exm4614' have the same position.
+Warning: Variants 'rs75687095' and 'exm4638' have the same position.
+Warning: Variants 'rs150584821' and 'exm4640' have the same position.
+Warning: Variants 'rs150356689' and 'exm4647' have the same position.
+Warning: Variants 'rs74773083' and 'exm4656' have the same position.
+Warning: Variants 'rs200800474' and 'exm1741176' have the same position.
 
 
