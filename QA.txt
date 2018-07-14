@@ -30,3 +30,41 @@ SeattleSeqAnnotation138.FinalRelease_QC_20140311_Team1_Marshfield.vcf.variant.in
 SeattleSeqAnnotation138.FinalRelease_QC_20140311_Team1_Marshfield.vcf.variant.info.312788349608.txt:none        2       171264271       T       T/TCC   TCC     NA      NR_045683.1     non-coding-exon unknown 0       none    NA      NA
 SeattleSeqAnnotation138.FinalRelease_QC_20140311_Team1_Marshfield.vcf.variant.info.312788349608.txt:none        2       171264271       T       T/TCC   TCC     NA      NR_045684.1     non-coding-exon unknown 0       none    NA      NA
 
+
+3. mutiple alternative alleles. 
+
+Lots of SNPs, they have more than 2 alleles in the population, such as rs3735101 and rs669884. We can take reference and alternative allele as I/D to deal with this problem. 
+dbSNP: rs3735101
+Position: chr7:2472939-2472939
+Band: 7p22.3
+Genomic Size: 1
+View DNA for this feature (hg19/Human)
+
+Strand: +
+Observed: A/C/G/T
+Reference allele: 	G				
+
+Class	single
+Validation	by-cluster,by-frequency,by-hapmap,by-1000genomes
+Function	missense_variant
+Molecule Type  	genomic
+Average Heterozygosity  	0.001 +/- 0.023
+Weight	1
+Submitter Handles  	1000GENOMES, CANCER-GENOME, EVA_EXAC, EXOME_CHIP, HUMAN_LONGEVITY, ILLUMINA, KRIBB_YJKIM, NHLBI-ESP, TOPMED, YUSUKE
+Allele Frequencies  	A: 0.045% (55 / 123560); C: 0.001% (1 / 123560); G: 99.947% (123495 / 123560); T: 0.007% (9 / 123560)
+
+Coding annotations by dbSNP:
+CHST12 (NM_001243794): missense_variant R (CGC) --> H (CAC)
+CHST12 (NM_001243794): missense_variant R (CGC) --> P (CCC)
+CHST12 (NM_001243794): missense_variant R (CGC) --> L (CTC)
+CHST12 (NM_001243795): missense_variant R (CGC) --> H (CAC)
+CHST12 (NM_001243795): missense_variant R (CGC) --> P (CCC)
+CHST12 (NM_001243795): missense_variant R (CGC) --> L (CTC)
+CHST12 (NM_018641): missense_variant R (CGC) --> H (CAC)
+CHST12 (NM_018641): missense_variant R (CGC) --> P (CCC)
+CHST12 (NM_018641): missense_variant R (CGC) --> L (CTC)
+
+
+4. 
+
+
