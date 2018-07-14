@@ -10,8 +10,8 @@ chdir $dir;
 my ($bim)=shift @ARGV;
 my $allsnp="/home/guosa/hpc/db/hg19/allsnp150.hg19";
 
-open F1,"$allsnp" || die "cannot open $allsanp\n";
-open F2,"$bim" || die "cannot open $bim\n";
+open F1,$allsnp || die "cannot open $allsnp\n";
+open F2, $bim || die "cannot open $bim\n";
 open OUT,">$bim\.bim";
 my %bim;
 my %allsnp;
@@ -33,7 +33,7 @@ while(<F2>){
         my $line=$_;
         my($chr,$exmid,undef,$end,$ref,$alt)=split/\s+/,$line;
         my $loc="chr$chr:$end";
-        if ($allsnp{$end}){
+        if ($allsnp{$loc}){
         print OUT "$chr\t$allsnp{$loc}\t0\t$end\t$ref\t$alt\n";
         $sum++;
         }else{
