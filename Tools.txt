@@ -1,0 +1,15 @@
+Description
+A list of useful tools for genome-wide association analysis. Tools mostly developed & maintained by friends and colleagues. Tools that I have frequently used.
+
+Links
+EPACTS - versatile software pipeline to perform various statistical tests for identifying genome-wide association from sequence data through a user-friendly interface. It includes popular statistical genetics methods like EMMAX, SKAT etc.
+
+gwasTools - a collection of R scripts for plotting GWAS results (Power plot, Manhattan plot, QQ plot)
+
+LocusZoom - a suite of interactive tools to provide fast visualization of GWAS results for research and publication.
+
+METAL - software for meta-analysis of large datasets (such as several whole genome scans) in a convenient, rapid and memory efficient manner.
+
+RMMLR - software for rapid genome-wide gene-based association tests with multiple traits using multivariate multiple linear regression.
+
+SWISS - software to help identify overlap between association scan results and GWAS hit catalogs. It can also be used to obtain a set of independent (LD-pruned) loci from a given set of loci.
