@@ -65,6 +65,51 @@ CHST12 (NM_018641): missense_variant R (CGC) --> P (CCC)
 CHST12 (NM_018641): missense_variant R (CGC) --> L (CTC)
 
 
-4. 
+4. mistkaes on chrsome or genomic position record. Warning: Multiple chromosomes seen for variant 'rs5941093'.
+4.1. For some reason, chrY was labelled to 0 or 23 or 24 or 25. 
+4.2. plink --bfile mydata --update-map build36.txt --make-bed --out mydata2
+4.3. plink --bfile mydata --update-cm build36.txt --make-bed --out mydata2
+but usually, the first column: chrosome cannot be changed. 
+Warning: Multiple chromosomes seen for variant 'rs6615352'.
+Warning: Multiple chromosomes seen for variant 'rs6618943'.
+Warning: Multiple chromosomes seen for variant 'rs397248'.
+Warning: Multiple chromosomes seen for variant 'rs6618959'.
+Warning: Multiple chromosomes seen for variant 'rs2574031'.
+Warning: Multiple chromosomes seen for variant 'rs2574054'.
+Warning: Multiple chromosomes seen for variant 'rs5984175'.
+Warning: Multiple chromosomes seen for variant 'rs2755052'.
+Warning: Multiple chromosomes seen for variant 'rs3855797'.
+Warning: Multiple chromosomes seen for variant 'rs5941093'.
+Warning: Multiple chromosomes seen for variant 'rs2364526'.
+Warning: Multiple chromosomes seen for variant 'rs5985006'.
+Warning: Multiple chromosomes seen for variant 'rs2751415'.
+Warning: Multiple chromosomes seen for variant 'rs5942313'.
+Warning: Multiple chromosomes seen for variant 'kgp22735776'.
+Warning: Multiple chromosomes seen for variant 'rs4893342'.
+Warning: Multiple chromosomes seen for variant 'kgp22808782'.
+Warning: Multiple chromosomes seen for variant 'kgp22797096'.
+Warning: Multiple chromosomes seen for variant 'rs2506262'.
+Warning: Multiple chromosomes seen for variant 'rs11091840'.
+Warning: Multiple chromosomes seen for variant 'rs2365839'.
+Warning: Multiple chromosomes seen for variant 'rs1854090'.
+Warning: Multiple chromosomes seen for variant 'rs1327160'.
+Warning: Multiple chromosomes seen for variant 'rs785754'.
+Warning: Multiple chromosomes seen for variant 'rs5940044'.
+Warning: Multiple chromosomes seen for variant 'rs6418114'.
+Warning: Multiple chromosomes seen for variant 'rs1402080'.
+Warning: Multiple chromosomes seen for variant 'rs6619260'.
+Warning: Multiple chromosomes seen for variant 'rs5983458'.
+Warning: Multiple chromosomes seen for variant 'rs7888166'.
+Warning: Multiple chromosomes seen for variant 'rs2311081'.
+Warning: Multiple chromosomes seen for variant 'rs4326550'.
+Warning: Multiple chromosomes seen for variant 'indel.108574'.
+Warning: Multiple chromosomes seen for variant 'indel.108576'.
+Warning: Multiple chromosomes seen for variant 'indel.108987'.
+Warning: Multiple chromosomes seen for variant 'rs11555344'.
+Warning: Multiple chromosomes seen for variant 'indel.109162'.
+Warning: Multiple chromosomes seen for variant 'variant.109262'.
+
+
+
 
 
