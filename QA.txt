@@ -108,4 +108,7 @@ Warning: Variants 'rs76957527' and 'exm4087' have the same position.
 6.1  genomic postion mistake, therefore, you cannot only mapping genomic postion to define rs number
 6.2  you need check the rs number should be consistent with rs number. 
 
+The question is annotation file seems have something wrong: CoreExome_24v1p2_A1_Anno.csv
+grep exm1083396 /mnt/bigdata/Genetic/Projects/S_Hebbring_2128_Released_Data/SNP_Information/SNP_Annotation/CoreExome_24v1p2_A1_Anno.csv
+chr0_0,exm1083396-0_T_F_1922741317,exm1083396,TOP,[A/G],37,0,0,TOP,TTGTCCGGATTGCCTGTGCCAACACCTTCCCAGAGGAGTTAGTGATGATCTGTAGTAGTG[A/G]TCTGATCTCTGTGGTGTGTTTCATTGCTCTGTTAATGTCCTATGCCTTCCTTCTGGCCTT,TTGTCCGGATTGCCTGTGCCAACACCTTCCCAGAGGAGTTAGTGATGATCTGTAGTAGTG[A/G]TCTGATCTCTGTGGTGTGTTTCATTGCTCTGTTAATGTCCTATGCCTTCCTTCTGGCCTT,+,,,,,,,,,,,,,,
 
