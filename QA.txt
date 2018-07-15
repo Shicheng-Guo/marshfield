@@ -64,7 +64,6 @@ CHST12 (NM_018641): missense_variant R (CGC) --> H (CAC)
 CHST12 (NM_018641): missense_variant R (CGC) --> P (CCC)
 CHST12 (NM_018641): missense_variant R (CGC) --> L (CTC)
 
-
 4. mistkaes on chrsome or genomic position record. Warning: Multiple chromosomes seen for variant 'rs5941093'.
 4.1. For some reason, chrY was labelled to 0 or 23 or 24 or 25. 
 4.2. plink --bfile mydata --update-map build36.txt --make-bed --out mydata2
@@ -85,8 +84,6 @@ Warning: Multiple chromosomes seen for variant 'rs5985006'.
 Warning: Multiple chromosomes seen for variant 'rs2751415'.
 Warning: Multiple chromosomes seen for variant 'rs5942313'.
 Warning: Multiple chromosomes seen for variant 'kgp22735776'.
-
-
 
 5. Same SNP/INDEL use different names, such as RS number or EXM number
 
@@ -111,4 +108,12 @@ Warning: Variants 'rs76957527' and 'exm4087' have the same position.
 The question is annotation file seems have something wrong: CoreExome_24v1p2_A1_Anno.csv
 grep exm1083396 /mnt/bigdata/Genetic/Projects/S_Hebbring_2128_Released_Data/SNP_Information/SNP_Annotation/CoreExome_24v1p2_A1_Anno.csv
 chr0_0,exm1083396-0_T_F_1922741317,exm1083396,TOP,[A/G],37,0,0,TOP,TTGTCCGGATTGCCTGTGCCAACACCTTCCCAGAGGAGTTAGTGATGATCTGTAGTAGTG[A/G]TCTGATCTCTGTGGTGTGTTTCATTGCTCTGTTAATGTCCTATGCCTTCCTTCTGGCCTT,TTGTCCGGATTGCCTGTGCCAACACCTTCCCAGAGGAGTTAGTGATGATCTGTAGTAGTG[A/G]TCTGATCTCTGTGGTGTGTTTCATTGCTCTGTTAATGTCCTATGCCTTCCTTCTGGCCTT,+,,,,,,,,,,,,,,
+
+
+7. Duplicate probes in exomchip to represent same rs variants but with different mode, such as, in phase 2
+
+1       rs10927875      0       16299312        T       C
+1       rs10927875      0       16299312        A       G
+
+
 
