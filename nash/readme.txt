@@ -10,4 +10,7 @@ sudo apt-get install texlive
 sudo apt-get install texlive-fonts-extra
 sudo apt-get install Texinfo
 
+ssh azureuser@mypublicdns.westus.cloudapp.azure.com
+
+
 
