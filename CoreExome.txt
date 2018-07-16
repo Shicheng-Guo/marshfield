@@ -1,0 +1,9 @@
+Infinium CoreExome-24 Kit
+
+This DNA microarray kit delivers genome-wide SNP and genetic variant information for genetic studies, especially large-scale human genotyping studies.
+
+The customizable Infinium CoreExome-24 BeadChip offers an economical way to perform and support large genetic studies, especially large-scale genotyping studies. They can also be used to quickly and easily obtain baseline sample data sets for a variety of downstream applications, including common variant, sex confirmation, mtDNA, ancestry, loss-of-variant, indel, and CNV studies.
+
+Developed in collaboration with several leading research institutions, the Infinium CoreExome-24 BeadChip includes all the tag SNPs found on the Infinium Core-24 BeadChip, plus over 240,000 markers from the Infinium Exome-24 BeadChip. For greater flexibility, the Infinium CoreExome-24+ version of the BeadChip can be customized to include up to 100,000 additional markers.
+
+Fixed markers: 550,601, Custom marker add-on capacity: Up to 100,000 (with + kit versions)
