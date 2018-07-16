@@ -1,3 +1,4 @@
+#!/usr/bin/sh
 cd /home/local/MFLDCLIN/guosa/hpc/pmrp/merge
 # make the first time merge to find out allele need to be filped. 
 plink --bfile FinalRelease_QC_20140311_Team1_Marshfield --bmerge S_Hebbring_Unr  --out PMRP-Phase1-phase2-Full
