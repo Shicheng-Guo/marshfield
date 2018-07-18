@@ -1,0 +1,4 @@
+# In plink, rs140194106 and rs1015259029 share same genomic position
+
+chr1    10254   10255   rs140194106     +       A       -/A
+chr1    10254   10255   rs1015259029    +       A       A/T
