@@ -1,0 +1,2 @@
+#Hapmap phase data by population
+https://ftp.ncbi.nlm.nih.gov/hapmap/phasing/2006-07_phaseII/all/
