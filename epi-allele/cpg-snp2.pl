@@ -41,7 +41,7 @@ my @seq=split //,$genome;
 
 close F1;
 open F2,"$chr.vcf.bed" || die "cannot open test.txt";
-open OUT,"$chr.mask.fa";
+open OUT,">$chr.mask.fa";
 while(<F2>){
     chomp;
     my $line=$_;
@@ -49,16 +49,17 @@ while(<F2>){
     $seq[$end]=$iupac{$alt};
 }
 close F2;
-close OUT;
 
 my $line=0;
 foreach my $seq(@seq){
 	$line++;
-	print "$seq";
-	print "\n" if $line % 100 ==0;
+	print OUT "$seq";
+	print OUT "\n" if $line % 100 ==0;
 }
+close OUT;
 
-my $data=join "",@seq;
+
+my $maskgenome=join "",@seq;
 
 my @cpgsnp;
 for my $i(qw /C Y M S H B V N/){
@@ -70,7 +71,7 @@ for my $i(qw /C Y M S H B V N/){
 
 my $regex=join "|",@cpgsnp;
 open OUT2,">$chr.hg19_cpgsnp.bed";
-my @pos=&match_all_positions($regex,$genome);
+my @pos=&match_all_positions($regex,$maskgenome);
 foreach my $pos(@pos){
 	my $opt=join "\t",@$pos;
 	print OUT2 "$chr\t$opt\n";
