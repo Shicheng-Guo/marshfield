@@ -6,8 +6,8 @@ log = process.log
 error = process.err
 output = process.out
 #
-# Specify your executable (single binary or a script that runs several
-#  commands) and arguments
+# Specify your executable (single binary or a script that runs several 
+# commands) and arguments
 executable = run_cv_one_step_nmspe_v2.sh
 arguments = v84 para_file.mat EM_res.mat session_idx.txt l_val.txt cv_idx.txt
 #
