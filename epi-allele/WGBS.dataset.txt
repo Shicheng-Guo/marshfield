@@ -1,0 +1,290 @@
+51235.CEEHRC.MS000202.WGB-Seq.methylation_profile.bigWig	B cell	CEEHRC
+52277.CEEHRC.MS012401.WGB-Seq.methylation_profile.bigWig	B cell	CEEHRC
+52338.CEEHRC.MS012701.WGB-Seq.methylation_profile.bigWig	B cell	CEEHRC
+52409.CEEHRC.MS013401.WGB-Seq.methylation_profile.bigWig	B cell	CEEHRC
+52412.CEEHRC.MS013501.WGB-Seq.methylation_profile.bigWig	B cell	CEEHRC
+52779.CEEHRC.MS026601.WGB-Seq.methylation_profile.bigWig	B cell	CEEHRC
+52797.CEEHRC.MS027001.WGB-Seq.methylation_profile.bigWig	B cell	CEEHRC
+65136.CEEHRC.CEMT0025.gDNA.WGB-Seq.methylation_profile.bigWig	CD19+ cells B lymphocytes	CEEHRC
+65158.CEEHRC.CEMT0026.gDNA.WGB-Seq.methylation_profile.bigWig	CD19+ cells B lymphocytes	CEEHRC
+65138.CEEHRC.CEMT0027.gDNA.WGB-Seq.methylation_profile.bigWig	CD19+ cells B lymphocytes	CEEHRC
+65140.CEEHRC.CEMT0028.gDNA.WGB-Seq.methylation_profile.bigWig	CD19+ cells B lymphocytes	CEEHRC
+65142.CEEHRC.CEMT0029.gDNA.WGB-Seq.methylation_profile.bigWig	CD19+ cells B lymphocytes	CEEHRC
+65144.CEEHRC.CEMT0030.gDNA.WGB-Seq.methylation_profile.bigWig	CD19+ cells B lymphocytes	CEEHRC
+51266.CEEHRC.MS000401.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51286.CEEHRC.MS000501.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51306.CEEHRC.MS000601.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51326.CEEHRC.MS000701.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51348.CEEHRC.MS000801.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51373.CEEHRC.MS000901.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51395.CEEHRC.MS001001.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51420.CEEHRC.MS001101.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51637.CEEHRC.MS002401.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51661.CEEHRC.MS002501.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51681.CEEHRC.MS002601.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51710.CEEHRC.MS002701.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51748.CEEHRC.MS002801.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51769.CEEHRC.MS002901.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+51787.CEEHRC.MS003001.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+52093.CEEHRC.MS007903.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+52512.CEEHRC.MS017605.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+52948.CEEHRC.MS032001.WGB-Seq.methylation_profile.bigWig	CD4-positive helper T cell	CEEHRC
+52964.CEEHRC.MS032601.WGB-Seq.methylation_profile.bigWig	eosinophil	CEEHRC
+52967.CEEHRC.MS032701.WGB-Seq.methylation_profile.bigWig	eosinophil	CEEHRC
+52970.CEEHRC.MS032801.WGB-Seq.methylation_profile.bigWig	eosinophil	CEEHRC
+51195.CEEHRC.MS000101.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+51229.CEEHRC.MS000201.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+51243.CEEHRC.MS000204.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+51354.CEEHRC.MS000802.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+51401.CEEHRC.MS001002.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+51426.CEEHRC.MS001102.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+51643.CEEHRC.MS002402.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+51716.CEEHRC.MS002702.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52040.CEEHRC.MS006401.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52086.CEEHRC.MS007901.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52143.CEEHRC.MS009602.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52295.CEEHRC.MS012403.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52363.CEEHRC.MS012704.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52507.CEEHRC.MS017603.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52519.CEEHRC.MS017902.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52542.CEEHRC.MS018002.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52741.CEEHRC.MS025401.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52744.CEEHRC.MS025501.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+52758.CEEHRC.MS026101.WGB-Seq.methylation_profile.bigWig	monocyte	CEEHRC
+51208.CEEHRC.MS000105.WGB-Seq.methylation_profile.bigWig	T cell	CEEHRC
+51246.CEEHRC.MS000205.WGB-Seq.methylation_profile.bigWig	T cell	CEEHRC
+52126.CEEHRC.MS009105.WGB-Seq.methylation_profile.bigWig	T cell	CEEHRC
+52203.CEEHRC.MS010003.WGB-Seq.methylation_profile.bigWig	T cell	CEEHRC
+52274.CEEHRC.MS011202.WGB-Seq.methylation_profile.bigWig	T cell	CEEHRC
+52325.CEEHRC.MS012405.WGB-Seq.methylation_profile.bigWig	T cell	CEEHRC
+52394.CEEHRC.MS012707.WGB-Seq.methylation_profile.bigWig	T cell	CEEHRC
+52524.CEEHRC.MS017903.WGB-Seq.methylation_profile.bigWig	T cell	CEEHRC
+52547.CEEHRC.MS018003.WGB-Seq.methylation_profile.bigWig	T cell	CEEHRC
+52761.CEEHRC.MS026102.WGB-Seq.methylation_profile.bigWig	T cell	CEEHRC
+24879.Blueprint.ERS337121.WGB-Seq.signal.bigWig	alternatively activated macrophage	Blueprint
+24880.Blueprint.ERS337121.WGB-Seq.signal.bigWig	alternatively activated macrophage	Blueprint
+24881.Blueprint.ERS337125.WGB-Seq.signal.bigWig	alternatively activated macrophage	Blueprint
+24882.Blueprint.ERS337125.WGB-Seq.signal.bigWig	alternatively activated macrophage	Blueprint
+24897.Blueprint.ERS422221.WGB-Seq.signal.bigWig	alternatively activated macrophage	Blueprint
+24898.Blueprint.ERS422221.WGB-Seq.signal.bigWig	alternatively activated macrophage	Blueprint
+24899.Blueprint.ERS422222.WGB-Seq.signal.bigWig	alternatively activated macrophage	Blueprint
+24900.Blueprint.ERS422222.WGB-Seq.signal.bigWig	alternatively activated macrophage	Blueprint
+24791.Blueprint.ERS208312.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24792.Blueprint.ERS208312.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24797.Blueprint.ERS208315.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24798.Blueprint.ERS208315.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24805.Blueprint.ERS208317.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24806.Blueprint.ERS208317.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24825.Blueprint.ERS206500.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24826.Blueprint.ERS206500.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24827.Blueprint.ERS206569.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24828.Blueprint.ERS206569.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24853.Blueprint.ERS214682.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24854.Blueprint.ERS214682.WGB-Seq.signal.bigWig	CD14-positive, CD16-negative classical monocyte	Blueprint
+24873.Blueprint.ERS358643.WGB-Seq.signal.bigWig	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell	Blueprint
+24874.Blueprint.ERS358643.WGB-Seq.signal.bigWig	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell	Blueprint
+24815.Blueprint.ERS214672.WGB-Seq.signal.bigWig	CD38-negative naive B cell	Blueprint
+24816.Blueprint.ERS214672.WGB-Seq.signal.bigWig	CD38-negative naive B cell	Blueprint
+24837.Blueprint.ERS214675.WGB-Seq.signal.bigWig	CD38-negative naive B cell	Blueprint
+24838.Blueprint.ERS214675.WGB-Seq.signal.bigWig	CD38-negative naive B cell	Blueprint
+24855.Blueprint.ERS222266.WGB-Seq.signal.bigWig	CD38-negative naive B cell	Blueprint
+24856.Blueprint.ERS222266.WGB-Seq.signal.bigWig	CD38-negative naive B cell	Blueprint
+24883.Blueprint.ERS433778.WGB-Seq.signal.bigWig	CD4-positive, alpha-beta T cell	Blueprint
+24884.Blueprint.ERS433778.WGB-Seq.signal.bigWig	CD4-positive, alpha-beta T cell	Blueprint
+24885.Blueprint.ERS433781.WGB-Seq.signal.bigWig	CD4-positive, alpha-beta T cell	Blueprint
+24886.Blueprint.ERS433781.WGB-Seq.signal.bigWig	CD4-positive, alpha-beta T cell	Blueprint
+24891.Blueprint.ERS433783.WGB-Seq.signal.bigWig	CD4-positive, alpha-beta T cell	Blueprint
+24892.Blueprint.ERS433783.WGB-Seq.signal.bigWig	CD4-positive, alpha-beta T cell	Blueprint
+24807.Blueprint.ERS317233.WGB-Seq.signal.bigWig	CD8-positive, alpha-beta T cell	Blueprint
+24808.Blueprint.ERS317233.WGB-Seq.signal.bigWig	CD8-positive, alpha-beta T cell	Blueprint
+24819.Blueprint.ERS214674.WGB-Seq.signal.bigWig	CD8-positive, alpha-beta T cell	Blueprint
+24820.Blueprint.ERS214674.WGB-Seq.signal.bigWig	CD8-positive, alpha-beta T cell	Blueprint
+24833.Blueprint.ERS222241.WGB-Seq.signal.bigWig	CD8-positive, alpha-beta T cell	Blueprint
+24834.Blueprint.ERS222241.WGB-Seq.signal.bigWig	CD8-positive, alpha-beta T cell	Blueprint
+24901.Blueprint.ERS433791.WGB-Seq.signal.bigWig	CD8-positive, alpha-beta T cell	Blueprint
+24902.Blueprint.ERS433791.WGB-Seq.signal.bigWig	CD8-positive, alpha-beta T cell	Blueprint
+24821.Blueprint.ERS222212.WGB-Seq.signal.bigWig	central memory CD8-positive, alpha-beta T cell	Blueprint
+24822.Blueprint.ERS222212.WGB-Seq.signal.bigWig	central memory CD8-positive, alpha-beta T cell	Blueprint
+24829.Blueprint.ERS222236.WGB-Seq.signal.bigWig	central memory CD8-positive, alpha-beta T cell	Blueprint
+24830.Blueprint.ERS222236.WGB-Seq.signal.bigWig	central memory CD8-positive, alpha-beta T cell	Blueprint
+24813.Blueprint.ERS222206.WGB-Seq.signal.bigWig	class switched memory B cell	Blueprint
+24814.Blueprint.ERS222206.WGB-Seq.signal.bigWig	class switched memory B cell	Blueprint
+24811.Blueprint.ERS317235.WGB-Seq.signal.bigWig	cytotoxic CD56-dim natural killer cell	Blueprint
+24812.Blueprint.ERS317235.WGB-Seq.signal.bigWig	cytotoxic CD56-dim natural killer cell	Blueprint
+24835.Blueprint.ERS222243.WGB-Seq.signal.bigWig	cytotoxic CD56-dim natural killer cell	Blueprint
+24836.Blueprint.ERS222243.WGB-Seq.signal.bigWig	cytotoxic CD56-dim natural killer cell	Blueprint
+24839.Blueprint.ERS222245.WGB-Seq.signal.bigWig	cytotoxic CD56-dim natural killer cell	Blueprint
+24840.Blueprint.ERS222245.WGB-Seq.signal.bigWig	cytotoxic CD56-dim natural killer cell	Blueprint
+24809.Blueprint.ERS317234.WGB-Seq.signal.bigWig	effector memory CD8-positive, alpha-beta T cell	Blueprint
+24810.Blueprint.ERS317234.WGB-Seq.signal.bigWig	effector memory CD8-positive, alpha-beta T cell	Blueprint
+24893.Blueprint.ERS433785.WGB-Seq.signal.bigWig	endothelial cell of umbilical vein	Blueprint
+24894.Blueprint.ERS433785.WGB-Seq.signal.bigWig	endothelial cell of umbilical vein	Blueprint
+24895.Blueprint.ERS433789.WGB-Seq.signal.bigWig	endothelial cell of umbilical vein	Blueprint
+24896.Blueprint.ERS433789.WGB-Seq.signal.bigWig	endothelial cell of umbilical vein	Blueprint
+24903.Blueprint.ERS433793.WGB-Seq.signal.bigWig	endothelial cell of umbilical vein	Blueprint
+24904.Blueprint.ERS433793.WGB-Seq.signal.bigWig	endothelial cell of umbilical vein	Blueprint
+24867.Blueprint.ERS433774.WGB-Seq.signal.bigWig	erythroblast	Blueprint
+24868.Blueprint.ERS433774.WGB-Seq.signal.bigWig	erythroblast	Blueprint
+24869.Blueprint.ERS358627.WGB-Seq.signal.bigWig	erythroblast	Blueprint
+24870.Blueprint.ERS358627.WGB-Seq.signal.bigWig	erythroblast	Blueprint
+24857.Blueprint.ERS337083.WGB-Seq.signal.bigWig	inflammatory macrophage	Blueprint
+24858.Blueprint.ERS337083.WGB-Seq.signal.bigWig	inflammatory macrophage	Blueprint
+24861.Blueprint.ERS337085.WGB-Seq.signal.bigWig	inflammatory macrophage	Blueprint
+24862.Blueprint.ERS337085.WGB-Seq.signal.bigWig	inflammatory macrophage	Blueprint
+24865.Blueprint.ERS337091.WGB-Seq.signal.bigWig	inflammatory macrophage	Blueprint
+24866.Blueprint.ERS337091.WGB-Seq.signal.bigWig	inflammatory macrophage	Blueprint
+24831.Blueprint.ERS337073.WGB-Seq.signal.bigWig	macrophage	Blueprint
+24832.Blueprint.ERS337073.WGB-Seq.signal.bigWig	macrophage	Blueprint
+24859.Blueprint.ERS337086.WGB-Seq.signal.bigWig	macrophage	Blueprint
+24860.Blueprint.ERS337086.WGB-Seq.signal.bigWig	macrophage	Blueprint
+24863.Blueprint.ERS337092.WGB-Seq.signal.bigWig	macrophage	Blueprint
+24864.Blueprint.ERS337092.WGB-Seq.signal.bigWig	macrophage	Blueprint
+24871.Blueprint.ERS337105.WGB-Seq.signal.bigWig	macrophage	Blueprint
+24872.Blueprint.ERS337105.WGB-Seq.signal.bigWig	macrophage	Blueprint
+24905.Blueprint.ERS422225.WGB-Seq.signal.bigWig	macrophage	Blueprint
+24906.Blueprint.ERS422225.WGB-Seq.signal.bigWig	macrophage	Blueprint
+24793.Blueprint.ERS208313.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24794.Blueprint.ERS208313.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24795.Blueprint.ERS208314.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24796.Blueprint.ERS208314.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24799.Blueprint.ERS208316.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24800.Blueprint.ERS208316.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24801.Blueprint.ERS227748.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24802.Blueprint.ERS227748.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24803.Blueprint.ERS227749.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24804.Blueprint.ERS227749.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24823.Blueprint.ERS206483.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24824.Blueprint.ERS206483.WGB-Seq.signal.bigWig	mature neutrophil	Blueprint
+24817.Blueprint.ERS222208.WGB-Seq.signal.bigWig	memory B cell	Blueprint
+24818.Blueprint.ERS222208.WGB-Seq.signal.bigWig	memory B cell	Blueprint
+28838.Roadmap.SRS167234_HuFNSC02_492.WGB-Seq.signal.bigWig	Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived	Roadmap
+28954.Roadmap.SRS167238_HuFGM02_605.WGB-Seq.signal.bigWig	Brain_Germinal_Matrix	Roadmap
+28861.Roadmap.SRS255276_149_604.WGB-Seq.signal.bigWig	Brain_Hippocampus_Middle	Roadmap
+28816.Roadmap.SRS309493_150_604.WGB-Seq.signal.bigWig	Brain_Hippocampus_Middle	Roadmap
+28795.Roadmap.SRS415786_HuFNSC02_491.WGB-Seq.signal.bigWig	Neurosphere_Cultured_Cells_Cortex_Derived	Roadmap
+28764.Roadmap.SRS415787_HuFNSC04_492.WGB-Seq.signal.bigWig	Neurosphere_Cultured_Cells_Ganglionic_Eminence_Derived	Roadmap
+28772.Roadmap.SRS415788_HuFNSC04_491.WGB-Seq.signal.bigWig	Neurosphere_Cultured_Cells_Cortex_Derived	Roadmap
+28913.Roadmap.SRS415793_RM066_538.WGB-Seq.signal.bigWig	Breast_Luminal_Epithelial_Cells	Roadmap
+28945.Roadmap.SRS118693_RM066_704.WGB-Seq.signal.bigWig	Breast_Myoepithelial_Cells	Roadmap
+28866.Roadmap.SRS415789_A21771_783.WGB-Seq.signal.bigWig	UCSF-4*	Roadmap
+28868.Roadmap.SRS415790_A21772_783.WGB-Seq.signal.bigWig	UCSF-4*	Roadmap
+28927.Roadmap.SRS360531_WGBS_Lib_20_784.WGB-Seq.signal.bigWig	hESC_Derived_CD56+_Ectoderm_Cultured_Cells	Roadmap
+28931.Roadmap.SRS360524_WGBS_Lib_21_784.WGB-Seq.signal.bigWig	hESC_Derived_CD56+_Ectoderm_Cultured_Cells	Roadmap
+28938.Roadmap.SRS360524_WGBS_Lib_22_784.WGB-Seq.signal.bigWig	hESC_Derived_CD56+_Ectoderm_Cultured_Cells	Roadmap
+28944.Roadmap.SRS360524_WGBS_Lib_23_784.WGB-Seq.signal.bigWig	hESC_Derived_CD56+_Ectoderm_Cultured_Cells	Roadmap
+28845.Roadmap.SRS184457_Combined_Libraries_797.WGB-Seq.signal.bigWig	iPS_DF_19.11	Roadmap
+28882.Roadmap.SRS184459_Combined_Libraries_800.WGB-Seq.signal.bigWig	iPS_DF_6.9	Roadmap
+28736.Roadmap.SRS004212_Combined_Libraries_424.WGB-Seq.signal.bigWig	H1	Roadmap
+28724.Roadmap.SRS184461_Combined_Libraries_426.WGB-Seq.signal.bigWig	H9	Roadmap
+28766.Roadmap.SRS406770_WGBS_Lib_39_528.WGB-Seq.signal.bigWig	HUES64	Roadmap
+28835.Roadmap.SRS406771_WGBS_Lib_26_528.WGB-Seq.signal.bigWig	HUES64	Roadmap
+28726.Roadmap.SRS172881_Combined_Libraries_462.WGB-Seq.signal.bigWig	H1_Derived_Neuronal_Progenitor_Cultured_Cells	Roadmap
+28786.Roadmap.SRS406772_WGBS_Lib_19_487.WGB-Seq.signal.bigWig	hESC_Derived_CD184+_Endoderm_Cultured_Cells	Roadmap
+28915.Roadmap.SRS309496_WGBS_Lib_6_487.WGB-Seq.signal.bigWig	hESC_Derived_CD184+_Endoderm_Cultured_Cells	Roadmap
+28734.Roadmap.H-23769_729.WGB-Seq.signal.bigWig	Fetal_Intestine_Large	Roadmap
+28853.Roadmap.H-23769_730.WGB-Seq.signal.bigWig	Fetal_Intestine_Small	Roadmap
+28929.Roadmap.SRS004215_Combined_Libraries_425.WGB-Seq.signal.bigWig	IMR90	Roadmap
+28741.Roadmap.SRS450532_UW_H24996_739.WGB-Seq.signal.bigWig	Fetal_Muscle_Leg	Roadmap
+28919.Roadmap.Combined_Libraries_429.WGB-Seq.signal.bigWig	H1_BMP4_Derived_Trophoblast_Cultured_Cells	Roadmap
+28773.Roadmap.SRS114974_RO_01549_488.WGB-Seq.signal.bigWig	Mobilized_CD34_Primary_Cells	Roadmap
+28956.Roadmap.SRS167285_3_603.WGB-Seq.signal.bigWig	Adult_Liver	Roadmap
+28850.Roadmap.SRS267133_Combined_Libraries_489.WGB-Seq.signal.bigWig	H1_BMP4_Derived_Mesendoderm_Cultured_Cells	Roadmap
+28905.Roadmap.SRS287639_Combined_Libraries_490.WGB-Seq.signal.bigWig	H1_Derived_Mesenchymal_Stem_Cells	Roadmap
+28780.Roadmap.SRS300640_STL003_458.WGB-Seq.signal.bigWig	Adrenal_Gland	Roadmap
+28857.Roadmap.SRS306613_STL001_463.WGB-Seq.signal.bigWig	Left_Ventricle	Roadmap
+28893.Roadmap.SRS306614_STL003_459.WGB-Seq.signal.bigWig	Aorta	Roadmap
+28887.Roadmap.SRS306616_STL003_460.WGB-Seq.signal.bigWig	Esophagus	Roadmap
+28737.Roadmap.SRS306617_STL003_457.WGB-Seq.signal.bigWig	Adipose_Tissue	Roadmap
+28864.Roadmap.SRS306619_STL003_463.WGB-Seq.signal.bigWig	Left_Ventricle	Roadmap
+28914.Roadmap.SRS306620_STL003_465.WGB-Seq.signal.bigWig	Pancreas	Roadmap
+28817.Roadmap.SRS306621_STL003_466.WGB-Seq.signal.bigWig	Psoas_Muscle	Roadmap
+28967.Roadmap.SRS306622_STL003_467.WGB-Seq.signal.bigWig	Right_Atrium	Roadmap
+28930.Roadmap.SRS306624_STL003_469.WGB-Seq.signal.bigWig	Sigmoid_Colon	Roadmap
+28910.Roadmap.SRS306625_STL003_471.WGB-Seq.signal.bigWig	Spleen	Roadmap
+28867.Roadmap.SRS308395_STL001_470.WGB-Seq.signal.bigWig	Small_Intestine	Roadmap
+28889.Roadmap.SRS308396_STL002_464.WGB-Seq.signal.bigWig	Lung	Roadmap
+28720.Roadmap.SRS308397_STL003_461.WGB-Seq.signal.bigWig	Gastric	Roadmap
+28869.Roadmap.SRS308398_STL003_468.WGB-Seq.signal.bigWig	Right_Ventricle	Roadmap
+28922.Roadmap.SRS309358_STL001_469.WGB-Seq.signal.bigWig	Sigmoid_Colon	Roadmap
+28721.Roadmap.SRS309498_WGBS_Lib_24_543.WGB-Seq.signal.bigWig	hESC_Derived_CD56+_Mesoderm_Cultured_Cells	Roadmap
+28723.Roadmap.SRS309499_WGBS_Lib_25_543.WGB-Seq.signal.bigWig	hESC_Derived_CD56+_Mesoderm_Cultured_Cells	Roadmap
+28921.Roadmap.SRS348369_STL001_781.WGB-Seq.signal.bigWig	Thymus	Roadmap
+28936.Roadmap.SRS348370_STL002_767.WGB-Seq.signal.bigWig	Ovary	Roadmap
+28787.Roadmap.SRS370782_skin03_473.WGB-Seq.signal.bigWig	Penis_Foreskin_Keratinocyte_Primary_Cells	Roadmap
+28946.Roadmap.SRS370784_skin03_472.WGB-Seq.signal.bigWig	Penis_Foreskin_Fibroblast_Primary_Cells	Roadmap
+28796.Roadmap.SRS415792_390ATA_779.WGB-Seq.signal.bigWig	Testis_Spermatozoa_Primary_Cells	Roadmap
+63119.DEEP.43_Hm01_BlMo_Ct.WGB-Seq.methylation_profile.bigWig	monocyte	DEEP
+63138.DEEP.43_Hm03_BlMa_Ct.WGB-Seq.methylation_profile.bigWig	macrophage	DEEP
+63157.DEEP.43_Hm03_BlMa_TE.WGB-Seq.methylation_profile.bigWig	macrophage	DEEP
+63176.DEEP.43_Hm03_BlMa_TO.WGB-Seq.methylation_profile.bigWig	macrophage	DEEP
+63195.DEEP.43_Hm03_BlMo_Ct.WGB-Seq.methylation_profile.bigWig	monocyte	DEEP
+63217.DEEP.43_Hm05_BlMa_Ct.WGB-Seq.methylation_profile.bigWig	macrophage	DEEP
+63237.DEEP.43_Hm05_BlMa_TE.WGB-Seq.methylation_profile.bigWig	macrophage	DEEP
+63257.DEEP.43_Hm05_BlMa_TO.WGB-Seq.methylation_profile.bigWig	macrophage	DEEP
+63277.DEEP.43_Hm05_BlMo_Ct.WGB-Seq.methylation_profile.bigWig	monocyte	DEEP
+63297.DEEP.51_Hf01_BlCM_Ct.WGB-Seq.methylation_profile.bigWig	central memory CD4-positive, alpha-beta T cell	DEEP
+63307.DEEP.51_Hf02_BlCM_Ct.WGB-Seq.methylation_profile.bigWig	central memory CD4-positive, alpha-beta T cell	DEEP
+63318.DEEP.51_Hf02_BlEM_Ct.WGB-Seq.methylation_profile.bigWig	central memory CD4-positive, alpha-beta T cell	DEEP
+63341.DEEP.51_Hf03_BlCM_Ct.WGB-Seq.methylation_profile.bigWig	central memory CD4-positive, alpha-beta T cell	DEEP
+63350.DEEP.51_Hf03_BlEM_Ct.WGB-Seq.methylation_profile.bigWig	central memory CD4-positive, alpha-beta T cell	DEEP
+63383.DEEP.51_Hf04_BlCM_Ct.WGB-Seq.methylation_profile.bigWig	central memory CD4-positive, alpha-beta T cell	DEEP
+63406.DEEP.51_Hf04_BlEM_Ct.WGB-Seq.methylation_profile.bigWig	central memory CD4-positive, alpha-beta T cell	DEEP
+63408.DEEP.51_Hf04_BlEM_Ct.WGB-Seq.methylation_profile.bigWig	central memory CD4-positive, alpha-beta T cell	DEEP
+62968.DEEP.01_HepG2_LiHG_Ct1.WGB-Seq.methylation_profile.bigWig	HepG2	DEEP
+63053.DEEP.41_Hf01_LiHe_Ct.WGB-Seq.methylation_profile.bigWig	hepatocyte	DEEP
+63078.DEEP.41_Hf02_LiHe_Ct.WGB-Seq.methylation_profile.bigWig	hepatocyte	DEEP
+63099.DEEP.41_Hf03_LiHe_Ct.WGB-Seq.methylation_profile.bigWig	hepatocyte	DEEP
+63004.DEEP.01_HepaRG_LiHR_D31.WGB-Seq.methylation_profile.bigWig	HepaRG	DEEP
+63327.DEEP.51_Hf02_BlTN_Ct.WGB-Seq.methylation_profile.bigWig	naive CD4-positive T cell	DEEP
+63361.DEEP.51_Hf03_BlTN_Ct.WGB-Seq.methylation_profile.bigWig	naive CD4-positive T cell	DEEP
+63435.DEEP.51_Hf04_BlTN_Ct.WGB-Seq.methylation_profile.bigWig	naive CD4-positive T cell	DEEP
+63463.DEEP.51_Hf05_BlTA_Ct.WGB-Seq.methylation_profile.bigWig	CD4-positive, alpha-beta memory T cell	DEEP
+63465.DEEP.51_Hf05_BlTA_Ct.WGB-Seq.methylation_profile.bigWig	CD4-positive, alpha-beta memory T cell	DEEP
+63512.DEEP.51_Hf07_BmTM4_Ct.WGB-Seq.methylation_profile.bigWig	CD4-positive alpha-beta memory T cell	DEEP
+63517.DEEP.51_Hf08_BlTM4_Ct.WGB-Seq.methylation_profile.bigWig	CD4-positive alpha-beta memory T cell	DEEP
+63519.DEEP.51_Hf08_BmTM4_SP1.WGB-Seq.methylation_profile.bigWig	CD4-positive alpha-beta memory T cell	DEEP
+63521.DEEP.51_Hf08_BmTM4_SP2.WGB-Seq.methylation_profile.bigWig	CD4-positive alpha-beta memory T cell	DEEP
+63523.DEEP.51_Hf09_BlTN_Ct.WGB-Seq.methylation_profile.bigWig	naive CD4-positive T cell	DEEP
+63525.DEEP.51_Hf09_BlTN_T1.WGB-Seq.methylation_profile.bigWig	naive CD4-positive T cell	DEEP
+63527.DEEP.51_Hf09_BlTN_T2.WGB-Seq.methylation_profile.bigWig	naive CD4-positive T cell	DEEP
+63529.DEEP.51_Hf09_BlTN_T3.WGB-Seq.methylation_profile.bigWig	naive CD4-positive T cell	DEEP
+63634.CREST.HPC6.WGB-Seq.signal_unstranded.bigWig	Hepatocytes	AMED-CREST
+63635.CREST.HPC6.WGB-Seq.methylation_profile.bigWig	Hepatocytes	AMED-CREST
+63636.CREST.HPC8.WGB-Seq.signal_unstranded.bigWig	Hepatocytes	AMED-CREST
+63637.CREST.HPC8.WGB-Seq.methylation_profile.bigWig	Hepatocytes	AMED-CREST
+63646.CREST.HPC17.WGB-Seq.signal_unstranded.bigWig	Hepatocytes	AMED-CREST
+63647.CREST.HPC17.WGB-Seq.methylation_profile.bigWig	Hepatocytes	AMED-CREST
+63657.CREST.HPC20.WGB-Seq.signal_unstranded.bigWig	Hepatocytes	AMED-CREST
+63658.CREST.HPC20.WGB-Seq.methylation_profile.bigWig	Hepatocytes	AMED-CREST
+63679.CREST.HPC27.WGB-Seq.signal_unstranded.bigWig	Hepatocytes	AMED-CREST
+63680.CREST.HPC27.WGB-Seq.methylation_profile.bigWig	Hepatocytes	AMED-CREST
+63690.CREST.HPC28.WGB-Seq.signal_unstranded.bigWig	Hepatocytes	AMED-CREST
+63691.CREST.HPC28.WGB-Seq.methylation_profile.bigWig	Hepatocytes	AMED-CREST
+63701.CREST.HPC35.WGB-Seq.signal_unstranded.bigWig	Hepatocytes	AMED-CREST
+63702.CREST.HPC35.WGB-Seq.methylation_profile.bigWig	Hepatocytes	AMED-CREST
+63668.CREST.HPC25.WGB-Seq.signal_unstranded.bigWig	liver	AMED-CREST
+63669.CREST.HPC25.WGB-Seq.methylation_profile.bigWig	liver	AMED-CREST
+63966.KNIH.KNIH_007_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Adipocyte	KNIH 
+63970.KNIH.KNIH_008_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Adipocyte	KNIH 
+63974.KNIH.KNIH_009_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Preadipocyte	KNIH 
+64332.KNIH.OB56_N_PreA_WGBS.WGB-Seq.methylation_profile.bigWig	Preadipocyte	KNIH 
+64337.KNIH.OB57_D_PreA_WGBS.WGB-Seq.methylation_profile.bigWig	Preadipocyte	KNIH 
+63978.KNIH.KNIH_010_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Podocyte	KNIH 
+63982.KNIH.KNIH_011_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Podocyte	KNIH 
+64282.KNIH.CKD24_C_Podo_WGBS.WGB-Seq.methylation_profile.bigWig	Podocyte	KNIH 
+64287.KNIH.CKD25_C_Podo_WGBS.WGB-Seq.methylation_profile.bigWig	Podocyte	KNIH 
+64277.KNIH.CKD23_C_Mesan_WGBS.WGB-Seq.methylation_profile.bigWig	Mesangial	KNIH 
+64292.KNIH.CKD27_C_Mesan_WGBS.WGB-Seq.methylation_profile.bigWig	Mesangial	KNIH 
+64297.KNIH.DB31_N_Alpha_WGBS.WGB-Seq.methylation_profile.bigWig	alpha_cell	KNIH 
+64302.KNIH.IPS01_N_Fibroblast_WGBS.WGB-Seq.methylation_profile.bigWig	iPSC	KNIH 
+64307.KNIH.IPS02_N_NPC_WGBS.WGB-Seq.methylation_profile.bigWig	neural progenitor cell	KNIH 
+64312.KNIH.IPS03_N_ENeuron_WGBS.WGB-Seq.methylation_profile.bigWig	early neuron	KNIH 
+64317.KNIH.IPS04_X_Fibroblast_WGBS.WGB-Seq.methylation_profile.bigWig	iPSC	KNIH 
+64322.KNIH.IPS05_X_NPC_WGBS.WGB-Seq.methylation_profile.bigWig	neural progenitor cell	KNIH 
+64327.KNIH.IPS06_X_ENeuron_WGBS.WGB-Seq.methylation_profile.bigWig	early neuron	KNIH 
+63942.KNIH.KNIH_001_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Islet_cell	KNIH 
+63946.KNIH.KNIH_002_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Islet_cell	KNIH 
+63954.KNIH.KNIH_003_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Islet_cell	KNIH 
+63958.KNIH.KNIH_004_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Islet_cell	KNIH 
+63962.KNIH.KNIH_005_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Islet_cell	KNIH 
+63950.KNIH.KNIH_006_genomic_DNA.WGB-Seq.methylation_profile.bigWig	Beta_cell	KNIH 
