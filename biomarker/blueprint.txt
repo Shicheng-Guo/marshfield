@@ -1,3 +1,6 @@
+# http://ftp.ebi.ac.uk/pub/databases/blueprint/blueprint_progenitor_methylomes/meth/
+# GRCH38
+
 Bcell_PB_I44_fracmeth.bw
 Bcell_PB_I45_fracmeth.bw
 Bcell_PB_I53_fracmeth.bw
