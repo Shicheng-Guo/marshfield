@@ -1,0 +1,10 @@
+# https://www.encodeproject.org/matrix/?type=Experiment&searchTerm=ENCFF434VBG&files.file_type=bigBed+bedMethyl&files.file_type=bigWig&files.file_type=bed+bedMethyl
+
+File accession	File format	Output type	Experiment accession	Assay	Biosample term id	Biosample term name	Biosample type	Biosample organism
+ENCFF121JEK	bigBed bedMethyl	methylation state at CHG	ENCSR579AXB	whole-genome shotgun bisulfite sequencing	UBERON:0002084	heart left ventricle	tissue	Homo sapiens
+ENCFF934VEG	bigBed bedMethyl	methylation state at CpG	ENCSR579AXB	whole-genome shotgun bisulfite sequencing	UBERON:0002084	heart left ventricle	tissue	Homo sapiens
+ENCFF536RSX	bed bedMethyl	methylation state at CpG	ENCSR579AXB	whole-genome shotgun bisulfite sequencing	UBERON:0002084	heart left ventricle	tissue	Homo sapiens
+ENCFF259ZEJ	bed bedMethyl	methylation state at CHH	ENCSR579AXB	whole-genome shotgun bisulfite sequencing	UBERON:0002084	heart left ventricle	tissue	Homo sapiens
+ENCFF881IGR	bed bedMethyl	methylation state at CHG	ENCSR579AXB	whole-genome shotgun bisulfite sequencing	UBERON:0002084	heart left ventricle	tissue	Homo sapiens
+ENCFF434VBG	bigWig	signal	ENCSR579AXB	whole-genome shotgun bisulfite sequencing	UBERON:0002084	heart left ventricle	tissue	Homo sapiens
+ENCFF297NAD	bigBed bedMethyl	methylation state at CHH	ENCSR579AXB	whole-genome shotgun bisulfite sequencing	UBERON:0002084	heart left ventricle	tissue	Homo sapiens
