@@ -1,0 +1,16 @@
+## submit file for 1 phenotype and 1 chromosome block
+executable = test.sh
+output = block_test_$(Cluster).out
+error = block_test_$(Cluster).err
+log = block_test_$(Cluster).log
+
+## transfer phenotype file and executable file
+transfer_input_files = COV_PHEN_DAT_SHARED_EX_RVTEST.ped,rvtest,CHR22_combined_p1.recode.vcf.gz.tbi
+
+## set up computation parameters
+request_memory = 1GB
+request_disk = 4GB
+request_cpus = 1
+queue 1
+
+# END
