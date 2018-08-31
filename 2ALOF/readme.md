@@ -9,3 +9,9 @@ In general, gametic phasing is necessary to directly determine compound heterozy
 #### 4. File interpretation
 1.  2ALOF_process_sub.R: main functions in this analysis
 2. 
+
+#### 5. Usage
+
+1.  2ALOF_process_sub.R: main functions in this analysis
+2. 
+
