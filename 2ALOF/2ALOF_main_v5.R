@@ -1,22 +1,18 @@
 
-source("/home/yez/Schrodi_2ALOF/rpgm/2ALOF_process_sub.R")
+source("2ALOF_process_sub.R")
 
 inpath = "/mnt/bigdata/Genetic/Projects/Schrodi_2ALOF/data/phased_data_preprocess/"
 outpath = "/home/guosa/hpc/Schrodi_2ALOF/result/"
 
 #inpath1 = "/mnt/bigdata/Genetic/Projects/EXOMECHIP_MARSHFIELD/tmp/"
 #inpath2 = "/mnt/bigdata/Genetic/Projects/EXOMECHIP_MARSHFIELD/"
-
 #ann_in = paste(inpath1,"FinalRelease_QC_20140311_Team1_Marshfield.annovar.hg19_multianno.csv",sep="")
 #vcf_info_in = paste(inpath2,"FinalRelease_QC_20140311_Team1_Marshfield.vcf.variant.info.update",sep="")
 #sam_info_in = paste(inpath2,"FinalRelease_QC_Phenotypes_Marshfield_20140224_Team1.txt",sep="")
-
 #ann_dat = read.csv(ann_in,header=TRUE)
 #vcf_info_dat = read.table(vcf_info_in,header=TRUE)
 #sam_dat = read.delim(sam_info_in,header=TRUE)
-
 ## define parameters
-
 ## chromosomes
 chr_vec = c(1:22)
 
@@ -133,23 +129,15 @@ for(k in 1:phen_num)
     table(paste(snp_out_info$Gene.refGene))[1:10]
     }
     snp_num = dim(map_dat)[1]
- 
     hap1_loc = c(1:snp_num)*2 - 1 + 6
     hap2_loc = c(1:snp_num)*2 + 6
-
     hap1_dat = ped_dat[,hap1_loc]
     hap2_dat = ped_dat[,hap2_loc]
-
     ## run gene-based 2ALOF test
-  
     col_num = match("Otherinfo",colnames(snp_out_info))
-
     ann_dat_chr = snp_out_info[,c(1:col_num)]
-
     gene_tb = table(paste(snp_out_info$Gene.refGene))
-
     print(length(gene_tb))
-
     p_vec = sn_vec = sn_vec2 = c()    
     comb_ct_vec = matrix(-1,nrow=length(gene_tb),ncol=4)
 
