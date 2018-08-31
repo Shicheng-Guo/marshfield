@@ -9,5 +9,6 @@ FinalRelease_QC_20140311_Team1_Marshfield.10302018.annovar.hg19_multianno.csv to
 #### 4. File interpretation
 2ALOF_process_sub.R: main functions in this analysis
 #### 5. Usage
-
-Example: 
+```
+Rscript 
+```
