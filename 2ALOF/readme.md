@@ -4,14 +4,8 @@ Putative functional variants included in the analyses satisfied the quality cont
 #### 2. Haplotype Phasing
 In general, gametic phasing is necessary to directly determine compound heterozygous individuals at a particular gene.  Several algorithms are available for inferring phased haplotypes from unphased genotype data using population-based samples, including the localized haplotype-cluster model algorithm implemented in the software Beagle. Each gene in the exome was phased separately using this method within Beagle (default method for our analysis).
 #### 3. Essential files
-1. FinalRelease_QC_20140311_Team1_Marshfield.10302018.annovar.hg19_multianno.csv too large (~348M) to upload to github, please send email to obtain
+FinalRelease_QC_20140311_Team1_Marshfield.10302018.annovar.hg19_multianno.csv too large (~348M) to upload to github, please send email to obtain
 2. 
 #### 4. File interpretation
-1.  2ALOF_process_sub.R: main functions in this analysis
-2. 
-
+2ALOF_process_sub.R: main functions in this analysis
 #### 5. Usage
-
-1.  2ALOF_process_sub.R: main functions in this analysis
-2. 
-
